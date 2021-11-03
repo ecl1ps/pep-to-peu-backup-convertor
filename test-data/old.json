@@ -1,0 +1,3846 @@
+﻿{
+  "IsCommitted": true,
+  "Config": {
+    "Playlists": [
+      {
+        "PlaylistID": "OstVol1",
+        "PlaylistName": "Original Soundtrack Vol. 1",
+        "SongList": [
+          {
+            "SongID": "100Bills",
+            "SongName": "$100 Bills",
+            "SongSubName": "",
+            "SongAuthorName": "Jaroslav Beck",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "BalearicPumping",
+            "SongName": "Balearic Pumping",
+            "SongSubName": "",
+            "SongAuthorName": "Jaroslav Beck",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "BeatSaber",
+            "SongName": "Beat Saber",
+            "SongSubName": "",
+            "SongAuthorName": "Jaroslav Beck",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "Breezer",
+            "SongName": "Breezer",
+            "SongSubName": "",
+            "SongAuthorName": "Jaroslav Beck",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "CommercialPumping",
+            "SongName": "Commercial Pumping",
+            "SongSubName": "",
+            "SongAuthorName": "Jaroslav Beck",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "CountryRounds",
+            "SongName": "Country Rounds",
+            "SongSubName": "Sqeepo Remix",
+            "SongAuthorName": "Jaroslav Beck, Kings & Folk",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "Escape",
+            "SongName": "Escape",
+            "SongSubName": "ft. Summer Haze",
+            "SongAuthorName": "Jaroslav Beck, Summer Haze",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "Legend",
+            "SongName": "Legend",
+            "SongSubName": "ft. Backchat",
+            "SongAuthorName": "Jaroslav Beck, Backchat, Generdyn",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "LvlInsane",
+            "SongName": "Lvl Insane",
+            "SongSubName": "",
+            "SongAuthorName": "Jaroslav Beck",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "TurnMeOn",
+            "SongName": "Turn Me On",
+            "SongSubName": "ft. Tiny C",
+            "SongAuthorName": "Jaroslav Beck, Tiny C",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "OstVol2",
+        "PlaylistName": "Original Soundtrack Vol. 2",
+        "SongList": [
+          {
+            "SongID": "BeThereForYou",
+            "SongName": "Be There For You",
+            "SongSubName": "ft. Kinnie Lane",
+            "SongAuthorName": "Sedliv",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "Elixia",
+            "SongName": "Elixia",
+            "SongSubName": "",
+            "SongAuthorName": "Mord Fustang",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "INeedYou",
+            "SongName": "I Need You",
+            "SongSubName": "",
+            "SongAuthorName": "Megaphonix",
+            "LevelAuthorName": "Purphoros & Split",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "RumNBass",
+            "SongName": "Rum n' Bass",
+            "SongSubName": "",
+            "SongAuthorName": "Boom Kitty",
+            "LevelAuthorName": "Freek & Split",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "UnlimitedPower",
+            "SongName": "Unlimited Power",
+            "SongSubName": "ft. Frank Bentley",
+            "SongAuthorName": "Jaroslav Beck",
+            "LevelAuthorName": "Split",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "OstVol3",
+        "PlaylistName": "Original Soundtrack Vol. 3",
+        "SongList": [
+          {
+            "SongID": "Origins",
+            "SongName": "Origins",
+            "SongSubName": "(ft. Mutrix)",
+            "SongAuthorName": "Jaroslav Beck & Jan Ilavsky",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "ReasonForLiving",
+            "SongName": "Reason For Living",
+            "SongSubName": "",
+            "SongAuthorName": "Morgan Page",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "GiveALittleLove",
+            "SongName": "Give a Little Love",
+            "SongSubName": "",
+            "SongAuthorName": "Pegboard Nerds",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "FullCharge",
+            "SongName": "Full Charge",
+            "SongSubName": "",
+            "SongAuthorName": "PIXL",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "Immortal",
+            "SongName": "Immortal",
+            "SongSubName": "",
+            "SongAuthorName": "Slippy",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "BurningSands",
+            "SongName": "Burning Sands",
+            "SongSubName": "",
+            "SongAuthorName": "Boom Kitty",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "Extras",
+        "PlaylistName": "Extras",
+        "SongList": [
+          {
+            "SongID": "FitBeat",
+            "SongName": "FitBeat",
+            "SongSubName": "",
+            "SongAuthorName": "Jaroslav Beck",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "CrabRave",
+            "SongName": "Crab Rave",
+            "SongSubName": "",
+            "SongAuthorName": "Noisestorm",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "PopStars",
+            "SongName": "POP/STARS - K/DA",
+            "SongSubName": "",
+            "SongAuthorName": "League of Legends",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "OneHope",
+            "SongName": "One Hope",
+            "SongSubName": "ft. David Binney",
+            "SongAuthorName": "KNOWER",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "AngelVoices",
+            "SongName": "Angel Voices",
+            "SongSubName": "",
+            "SongAuthorName": "Virtual Self",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "Camellia",
+        "PlaylistName": "Camellia Music Pack",
+        "SongList": [
+          {
+            "SongID": "ExitThisEarthsAtomosphere",
+            "SongName": "EXiT This Earth's Atomosphere",
+            "SongSubName": "",
+            "SongAuthorName": "Camellia",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "Ghost",
+            "SongName": "Ghost",
+            "SongSubName": "",
+            "SongAuthorName": "Camellia",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "LightItUp",
+            "SongName": "Light it up",
+            "SongSubName": "",
+            "SongAuthorName": "Camellia",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "Crystallized",
+            "SongName": "Crystallized",
+            "SongSubName": "",
+            "SongAuthorName": "Camellia",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "CycleHit",
+            "SongName": "Cycle Hit",
+            "SongSubName": "",
+            "SongAuthorName": "Kasai Harcores (DJ Genki,C-Show,Camellia)",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "WhatTheCat",
+            "SongName": "WHAT THE CAT!?",
+            "SongSubName": "",
+            "SongAuthorName": "Camellia",
+            "LevelAuthorName": "",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "CustomSongs",
+        "PlaylistName": "Custom Songs",
+        "SongList": [],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "SyncService_BeastSaberBOOKMARKS",
+        "PlaylistName": "Bookmarks",
+        "SongList": [
+          {
+            "SongID": "custom_level_301d2b7b8179b8deb0fc8ce82e33608e446950c5",
+            "SongName": "Voodoo People (Pendulum Remix) (El's BS Edit)",
+            "SongSubName": "",
+            "SongAuthorName": "The Prodigy",
+            "LevelAuthorName": "El Riemo",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_bf2f5afaeae0767c9bd6944ce74a23f6b24f4098",
+            "SongName": "Rasputin-Boney M",
+            "SongSubName": "",
+            "SongAuthorName": "",
+            "LevelAuthorName": "Jobas",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_e8b113c06700a9342e7eeafd805b26f66458c23f",
+            "SongName": "The Legend of Zelda Theme",
+            "SongSubName": "",
+            "SongAuthorName": "Zedd Remix",
+            "LevelAuthorName": "Demicross",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_d87825bc89ea56946fc184e9368a085a286240da",
+            "SongName": "Sakkijarvi polkka",
+            "SongSubName": "",
+            "SongAuthorName": "Finnish folk song",
+            "LevelAuthorName": "mirkoi",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_1b9278797fa6d85d0201d1a261101f8cb9ac7dde",
+            "SongName": "Level of Concern",
+            "SongSubName": "",
+            "SongAuthorName": "twenty one pilots",
+            "LevelAuthorName": "Pyrowarfare",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_7cca8c1afecd782cfd74f158c312201b780043d8",
+            "SongName": "That's Life",
+            "SongSubName": "",
+            "SongAuthorName": "Frank Sinatra",
+            "LevelAuthorName": "TechButterfly",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_c967a5862a8602ebacebe44b6ac5c2422c3e90bb",
+            "SongName": "Tsuki No Waltz (Standard and FeetSaber)",
+            "SongSubName": "",
+            "SongAuthorName": "Mio Isayama",
+            "LevelAuthorName": "henomohesan",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_c75c146b33eb195a4a8adc521b9df7329a82e3ef",
+            "SongName": "'Till I Collapse",
+            "SongSubName": "",
+            "SongAuthorName": "Eminem feat. Nate Dogg",
+            "LevelAuthorName": "hassel89",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_bb84a61400ae0f83a75e7fe6d887d5b0fc3569b1",
+            "SongName": "Light It Up",
+            "SongSubName": "",
+            "SongAuthorName": "Major Lazer feat. Nyla & Fuse ODG",
+            "LevelAuthorName": "brhkim",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_67d3dfeb12afb653ad573e3885ab1fca4c223b1f",
+            "SongName": "To Be The Best",
+            "SongSubName": "",
+            "SongAuthorName": "",
+            "LevelAuthorName": "Tenacious D",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_8af82a87167070a08ec63dba0459c829c2954067",
+            "SongName": "Back in Black",
+            "SongSubName": "",
+            "SongAuthorName": "AC/DC",
+            "LevelAuthorName": "Freeek",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_7e096457e053dc0ee70fb5d08ed10332e5d5b75b",
+            "SongName": "VORACITY",
+            "SongSubName": "",
+            "SongAuthorName": "OVERLOAD III OP",
+            "LevelAuthorName": "ejiejidayo",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_5973aa025c3835d6c23e5153d688e9db9e8f3b56",
+            "SongName": "The Final Countdown",
+            "SongSubName": "",
+            "SongAuthorName": "Europe",
+            "LevelAuthorName": "Reborn",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ed275251b6489a3ad07e9060d833e78f7372f9ba",
+            "SongName": "Run Up",
+            "SongSubName": "",
+            "SongAuthorName": "Major Lazer, PARTYNEXTDOOR, Nicki Minaj",
+            "LevelAuthorName": "TheAmplifier",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_8d9df176c94ecf5c7725457525b6f959f5ef9296",
+            "SongName": "I can't stop",
+            "SongSubName": "",
+            "SongAuthorName": "Flux Pavilion",
+            "LevelAuthorName": "Rustic",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_fc90efadca28d53c47816a17ae3d2901dc48f4f3",
+            "SongName": "Lean On (feat. M0)",
+            "SongSubName": "",
+            "SongAuthorName": "Major Lazer & DJ Snake",
+            "LevelAuthorName": "Zeekin",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_5cc1b147ccf23b105411c07aa855ea866a68a7af",
+            "SongName": "Light it Up",
+            "SongSubName": "",
+            "SongAuthorName": "Major Lazer",
+            "LevelAuthorName": "R_O_BTheRobot",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_8137eee2ec7f6edcaf6d77ebe395d2c2b2e61936",
+            "SongName": "Heavy",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park (feat. Kiiara)",
+            "LevelAuthorName": "Hughes03",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_40b2d900d8301ab15df8043cdce8fd2686afff4f",
+            "SongName": "Test Drive",
+            "SongSubName": "",
+            "SongAuthorName": "John Powell",
+            "LevelAuthorName": "Stumi",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_def0e56a324959dce782c11998ca0de52217969a",
+            "SongName": "Goodbye moonmen",
+            "SongSubName": "The Living Tombstone",
+            "SongAuthorName": "[AS]",
+            "LevelAuthorName": "JakesGames1415",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_0437d9bd9c3fa1d1013bfc6f0d223081e1fbe324",
+            "SongName": "Powerful",
+            "SongSubName": "",
+            "SongAuthorName": "Major Lazer",
+            "LevelAuthorName": "Radle_jr",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_72bf749f5df632cd103fccd734c9fd5cc7596caa",
+            "SongName": "Ievan Polkka ",
+            "SongSubName": "",
+            "SongAuthorName": "Hatsune Miku",
+            "LevelAuthorName": "Fraktar",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_6df961680ead49e2d92de1a95b789e0ce4a026db",
+            "SongName": "Du Hast",
+            "SongSubName": "",
+            "SongAuthorName": "Rammstein",
+            "LevelAuthorName": "Level by Kolezan",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_cf5e32d6b7f30095f7198da5894139c92336cad7",
+            "SongName": "Caramelldansen (Speedcake Remix)",
+            "SongSubName": "",
+            "SongAuthorName": "Caramell",
+            "LevelAuthorName": "Dack",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ddf308b15c3dc75794f176befc12e7131c9407ca",
+            "SongName": "Legends Never Die",
+            "SongSubName": "League of Legends ",
+            "SongAuthorName": "Against The Current",
+            "LevelAuthorName": "TioJoe",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_d110e413fb7fb462b692f1f17b835cf8b7280884",
+            "SongName": "Uptown Funk",
+            "SongSubName": "",
+            "SongAuthorName": "Mark Ronson",
+            "LevelAuthorName": "BennyDaBeast",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_17d298f2bf78b453cd66474ce268ae9dac9fab46",
+            "SongName": "Blinding Lights",
+            "SongSubName": "",
+            "SongAuthorName": "The Weeknd",
+            "LevelAuthorName": "NovaShaft",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_64d9d188d8667a69f1366ac33aa21956712f60f5",
+            "SongName": "Warriors ( League of Legends )",
+            "SongSubName": "",
+            "SongAuthorName": "2WEI & Edda Hayes",
+            "LevelAuthorName": "TioJoe",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_40d956a3cf8aea0fa87871791e449a8f4874176c",
+            "SongName": "Blood Sugar",
+            "SongSubName": "",
+            "SongAuthorName": "Knife Party Remix",
+            "LevelAuthorName": "Rustic",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_323975ef9eaec337c8208dc864e766289e3d5ef1",
+            "SongName": "Star Sky Two Steps From Hell",
+            "SongSubName": "",
+            "SongAuthorName": ".",
+            "LevelAuthorName": "ejiejidayo",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_5f83f54b6fe629e3efd67c781335e2fb87f46732",
+            "SongName": "Voodoo People",
+            "SongSubName": "",
+            "SongAuthorName": "The Prodigy (Pendulum Remix)",
+            "LevelAuthorName": "TDIe",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_b0f6224a2717b97a4538790a32eb618acae1f57a",
+            "SongName": "Pumped Up Kicks",
+            "SongSubName": "",
+            "SongAuthorName": "Foster The People",
+            "LevelAuthorName": "Skyler Wallace",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_2c002d2874e029db43f3c7cf9bb271ae0d769b74",
+            "SongName": "The Nights",
+            "SongSubName": "",
+            "SongAuthorName": "",
+            "LevelAuthorName": "Avicii",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_580eb7d1614a35d192722f748400c9896ac9527d",
+            "SongName": "Sandstorm",
+            "SongSubName": "",
+            "SongAuthorName": "Darude",
+            "LevelAuthorName": "Skyler Wallace",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_50e4c2101cc079a98f88e80aa7091e60bb6d1d31",
+            "SongName": "drop pop candy",
+            "SongSubName": "ft. GigaP",
+            "SongAuthorName": "Reol",
+            "LevelAuthorName": "Kolezan (E+ by AaltopahWi)",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_b4eb39a7c22ad93ecb4daaadc8e693d67c4e8b9f",
+            "SongName": "Lean On",
+            "SongSubName": "",
+            "SongAuthorName": "Major Lazer ft. MO & DJ Snake",
+            "LevelAuthorName": "Funrankable",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_315924c64f57433c2157256662f67c2f3ecc0a57",
+            "SongName": "BTH 4 - Come & Get It",
+            "SongSubName": "",
+            "SongAuthorName": "(Charted by M.Rappold)",
+            "LevelAuthorName": "Krewella",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_d62d9c6c7460992222d23785b71e9454c6334efa",
+            "SongName": "Beyond Eternity",
+            "SongSubName": "",
+            "SongAuthorName": "GHOST DATA",
+            "LevelAuthorName": "shad",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_732bd4072b89d4b3bf0e63db812a7ffc3096e837",
+            "SongName": "Legends Never Die",
+            "SongSubName": "",
+            "SongAuthorName": "League of Legends & Against The Current",
+            "LevelAuthorName": "KikaeAeon",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_8161daf97cab8c95aea0556549b4b8cfb29a13d3",
+            "SongName": "Love The Way You Lie (ft. Rihanna)",
+            "SongSubName": "",
+            "SongAuthorName": "Eminem, Rihanna",
+            "LevelAuthorName": "StyngMe",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_071893022fbb7ff14814263ff59e3d545b903bcb",
+            "SongName": "Emanation",
+            "SongSubName": "feat. DE125",
+            "SongAuthorName": "Schwank and Tanger",
+            "LevelAuthorName": "Jaack",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_a684cee0d634b9bb59eef234665fd28ef27876ac",
+            "SongName": "Without Me - ILLENIUM Remix",
+            "SongSubName": "",
+            "SongAuthorName": "Halsey, ILLENIUM",
+            "LevelAuthorName": "StyngMe",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_19a733cf9202ef25725966d78f465bf87b26254d",
+            "SongName": "Toss A Coin To Your Witcher",
+            "SongSubName": "Netflix's The Witcher",
+            "SongAuthorName": "Joey Batey",
+            "LevelAuthorName": "Holair",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_68adc3bb89dcdc447c9b892b7ce9eb545520ae1f",
+            "SongName": "Cheeki Breeki Hardbass",
+            "SongSubName": "",
+            "SongAuthorName": "apartje",
+            "LevelAuthorName": "EPG7ENS",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_f745bac45c618fa2c49a0ee0c383f2a6cb356a78",
+            "SongName": "Under The Sea",
+            "SongSubName": "",
+            "SongAuthorName": "Samuel E. Wright",
+            "LevelAuthorName": "BennyDaBeast",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ce44b6e54c6f3c8f6ca9e10b908be7c69481b501",
+            "SongName": "The Day is my Enemy",
+            "SongSubName": "",
+            "SongAuthorName": "The Prodigy",
+            "LevelAuthorName": "Tagh_azog",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_8c5be566e218b8cc59c21e947bc39c1ce1f98908",
+            "SongName": "MORE",
+            "SongSubName": "",
+            "SongAuthorName": "K/DA",
+            "LevelAuthorName": "Sotarks",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_6c9d463c1cf556246cf60bfaef75fc4f8ea3053f",
+            "SongName": "Mope Mope",
+            "SongSubName": "",
+            "SongAuthorName": "LeaF",
+            "LevelAuthorName": "waika",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_f102bccd98480df8b9e12c681873feff19c25210",
+            "SongName": "Wrap Me In Plastic",
+            "SongSubName": "CHROMANCE - Wrap Me In Plastic - Marcus Layton Mix",
+            "SongAuthorName": "CHROMANCE",
+            "LevelAuthorName": "max20531",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_c30e709cf2b08d602229bc766f83c1b048d6bf47",
+            "SongName": "Classico",
+            "SongSubName": "",
+            "SongAuthorName": "Tenacious D in The Pick of Destiny",
+            "LevelAuthorName": "Tenacious D",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_246dadeb5fc6d0083db1577ec9df9d7cc7b50893",
+            "SongName": "Ievan Polkka?",
+            "SongSubName": "",
+            "SongAuthorName": "Hatsune miku",
+            "LevelAuthorName": "aoyan",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_000fbcb46c41cd0c363a80ae389333f7625e0921",
+            "SongName": "LA DI DA",
+            "SongSubName": "",
+            "SongAuthorName": "EVERGLOW",
+            "LevelAuthorName": "simplymarvellous",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ac3976bd01d289aaacf03423706010e843a824d5",
+            "SongName": "The Only Thing They Fear is You",
+            "SongSubName": "",
+            "SongAuthorName": "Mick Gordon",
+            "LevelAuthorName": "Skyler Wallace",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_8efcc0f76c8f594a7dd87f796c0c9b9b0d428345",
+            "SongName": "Ievan Polkka",
+            "SongSubName": "",
+            "SongAuthorName": "Loituma",
+            "LevelAuthorName": "rodysan",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_9c0a4620a61f51157d93e01fa7df059c903a0d72",
+            "SongName": "Faith",
+            "SongSubName": "",
+            "SongAuthorName": "Stevie Wonder feat. Ariana Grande",
+            "LevelAuthorName": "TechButterfly",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_4db96dd119b51d7f7124b6055db2ee1131452667",
+            "SongName": "The Chain",
+            "SongSubName": "",
+            "SongAuthorName": "Fleetwood Mac",
+            "LevelAuthorName": "TechButterfly",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_71eff19ed6d32fd0a446e1a32303c77aa7f646f2",
+            "SongName": "Bruises",
+            "SongSubName": "",
+            "SongAuthorName": "Fox Stevenson",
+            "LevelAuthorName": "Checkthepan",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_c222e31735f0c61b7781c8f41864b8033e054d40",
+            "SongName": "No Rain",
+            "SongSubName": "",
+            "SongAuthorName": "Blind Melon",
+            "LevelAuthorName": "TechButterfly",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_a06fda2a15ef868ad1324798a7d795f200d7ba4b",
+            "SongName": "Waiting For Love",
+            "SongSubName": "",
+            "SongAuthorName": "",
+            "LevelAuthorName": "Avicii",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ba3e5d8bca161ef9e9f70383b6c33f83ecf8998a",
+            "SongName": "Jump in the Line",
+            "SongSubName": "",
+            "SongAuthorName": "Harry Belafonte",
+            "LevelAuthorName": "TechButterfly",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_29357d7d5bb94030634f1140080a7298cf51319c",
+            "SongName": "Hallucinate",
+            "SongSubName": "",
+            "SongAuthorName": "Dua Lipa",
+            "LevelAuthorName": "FireStrike",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_c2a6c6aa907994353fef68370ebbda4da4ea4cc8",
+            "SongName": "Baddest",
+            "SongSubName": "",
+            "SongAuthorName": "KDA",
+            "LevelAuthorName": "KikaeAeon & ConnorJC",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ce8ff7c016e1080d7f0b5b4cb188577b46216dc9",
+            "SongName": "Selection",
+            "SongSubName": "feat. Skrillex & DJ Scheme",
+            "SongAuthorName": "Lil Tecca",
+            "LevelAuthorName": "xScaramouche",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_cf3243d6fc63c77a3b864414314ca4fb36f69e77",
+            "SongName": "The Prince",
+            "SongSubName": "",
+            "SongAuthorName": "Madeon",
+            "LevelAuthorName": "Bearly & dgrj4life",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_559113d5c4247438c6ecad852c61d03d79396af1",
+            "SongName": "Who's Laughing Now",
+            "SongSubName": "",
+            "SongAuthorName": "Ava Max",
+            "LevelAuthorName": "Teuflum",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_e910f093ae81e3e4231be914cc922faecbcbcef6",
+            "SongName": "Mr. Highway's Thinking About The End",
+            "SongSubName": "",
+            "SongAuthorName": "A Day To Remember",
+            "LevelAuthorName": "ekuret",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_07379a02b5dc72a39f188c614caae2eca1f774f9",
+            "SongName": "Just Got Paid",
+            "SongSubName": "",
+            "SongAuthorName": "Sigala, Ella Eyre, Meghan Trainor",
+            "LevelAuthorName": "Stumi",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_4c750c4ba3eb6e0b61f1549169d814d54be2ca01",
+            "SongName": "9,000 Miles",
+            "SongSubName": "",
+            "SongAuthorName": "(Charted by M.Rappold)",
+            "LevelAuthorName": "Pendulum",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_e855d1a7b17904322aa3ebaf3bb002421bce568a",
+            "SongName": "The Wall",
+            "SongSubName": "(Buunshin Remix)",
+            "SongAuthorName": "ABIS & Signal & Tasha Baxter",
+            "LevelAuthorName": "Rustic",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_585ee25e654ebf5db5aa0ec02c3bcecbaccf3e0b",
+            "SongName": "Flamingo",
+            "SongSubName": "",
+            "SongAuthorName": "Kero Kero Bonito",
+            "LevelAuthorName": "ETAN",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_dc489921185f92dfecb9cb07b84fc556123bd134",
+            "SongName": "Daddy",
+            "SongSubName": "",
+            "SongAuthorName": "PSY",
+            "LevelAuthorName": "Fafurion",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_766a222b102b6522cd5d31e82ec7adc7c5ff011e",
+            "SongName": "YoiYoi Kokon",
+            "SongSubName": "",
+            "SongAuthorName": "REOL",
+            "LevelAuthorName": "Kolezan",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_125b07ebcc06fe9667e83fc2d6b9ae5ecbc72e8c",
+            "SongName": "IGNITE",
+            "SongSubName": "",
+            "SongAuthorName": "Aoi Eir",
+            "LevelAuthorName": "Joetastic",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_afc2a905079d1fcdc9d82fa50e83c842d4d42118",
+            "SongName": "The greatest show reimagined",
+            "SongSubName": "",
+            "SongAuthorName": "Panic at the disco",
+            "LevelAuthorName": "Stumi",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_638cf20187a122490b4662555e9072cd8073146b",
+            "SongName": "I Wanna Be Like You (Sim Gretina Remix)",
+            "SongSubName": "",
+            "SongAuthorName": "Jungle Book",
+            "LevelAuthorName": "ConnorJC",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_2e9ab6e1fb8055649e241cade98b018926cc93a8",
+            "SongName": "Feel Invincible",
+            "SongSubName": "",
+            "SongAuthorName": "Skillet",
+            "LevelAuthorName": "Rustic",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_831247d7d02e948e5d03622748bb130b5057023d",
+            "SongName": "Technologic",
+            "SongSubName": "",
+            "SongAuthorName": "Daft Punk",
+            "LevelAuthorName": "Awfulnaut",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_47e41205b26dfc9340103f4a9626d7121ebb3f0c",
+            "SongName": "V",
+            "SongSubName": "",
+            "SongAuthorName": "Marcin Przyby?owicz",
+            "LevelAuthorName": "Johnny Silverhams",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_70fa6d11ec87d5ae8c8433c27f9a60b55f261f03",
+            "SongName": "Just a Gigolo",
+            "SongSubName": "",
+            "SongAuthorName": "David Lee Roth",
+            "LevelAuthorName": "TechButterfly",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_d0a2f4a4fd9353e824f8e59dc30057e7eb8570ed",
+            "SongName": "Bluebird Story",
+            "SongSubName": "",
+            "SongAuthorName": "DJ Okawari",
+            "LevelAuthorName": "Lestastic",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "Playlist83099",
+        "PlaylistName": "Avicii",
+        "SongList": [
+          {
+            "SongID": "custom_level_f92b0e8cad136e5e1b4edb9d9173cf890673fa11",
+            "SongName": "You Make Me",
+            "SongSubName": "",
+            "SongAuthorName": "Avicii",
+            "LevelAuthorName": "Rocket",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_a5a8a8cb37961d6bf177c3a75310c6c0b127e81a",
+            "SongName": "Wake Me Up",
+            "SongSubName": "",
+            "SongAuthorName": "Avicii",
+            "LevelAuthorName": "Uninstaller & Joetastic & SkylerWallace",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_f42a98936221a55ba07008d440bd5a8ea1c46a89",
+            "SongName": "Wake Me Up",
+            "SongSubName": "",
+            "SongAuthorName": "AVICII",
+            "LevelAuthorName": "Roxas99mc",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_24e20e448f30019bd36f716d4d817e4f52e47906",
+            "SongName": "Waiting For Love (Raxtor Remix)",
+            "SongSubName": "",
+            "SongAuthorName": "Avicii",
+            "LevelAuthorName": "HappyGLT",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_4b7cdfcf558f66acc4b7a506c2dd50fbd9a76354",
+            "SongName": "Waiting For Love",
+            "SongSubName": "",
+            "SongAuthorName": "Avicii",
+            "LevelAuthorName": "Rocket",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_2af686eb13a27943bd756da59c71c9810e9bb604",
+            "SongName": "True Believer",
+            "SongSubName": "Stories",
+            "SongAuthorName": "Avicii",
+            "LevelAuthorName": "ken",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ddc806f5ce3f37e745d45ba8ad86ce3d435aa932",
+            "SongName": "Tough Love",
+            "SongSubName": "",
+            "SongAuthorName": "Avicii ft. Agnes, Vargas & Lagola",
+            "LevelAuthorName": "EpicEwok",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_45f9480a43ddea9ff338bf449ad9ead62f73eb52",
+            "SongName": "The Nights",
+            "SongSubName": "",
+            "SongAuthorName": "Avicii",
+            "LevelAuthorName": "Nolanimations",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_e6af862558ef500f16d3b82161bbdfb1d2c296bf",
+            "SongName": "The Nights",
+            "SongSubName": "",
+            "SongAuthorName": "Avicii",
+            "LevelAuthorName": "Timeweaver",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_77038e161dfe1bd990959bef9729917da4c64044",
+            "SongName": "Sunset Jesus",
+            "SongSubName": "",
+            "SongAuthorName": "Avicii",
+            "LevelAuthorName": "CyanSnow",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_611de0f75648f0845ce44cbed9992c03e6103fcf",
+            "SongName": "Levels (Radio Edit)",
+            "SongSubName": "",
+            "SongAuthorName": "Avicii",
+            "LevelAuthorName": "Funrankable",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_2b8556f6e77e3d54d0c6ebb1c3cf6864c75469f0",
+            "SongName": "Hold The Line [feat. A R I Z O N A]",
+            "SongSubName": "",
+            "SongAuthorName": "Avicii",
+            "LevelAuthorName": "SainTheDestroyer",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_08abfe0f860d3c06420a5e3e522cb4c1f7a7e52b",
+            "SongName": "Heart Upon My Sleeve",
+            "SongSubName": "",
+            "SongAuthorName": "Avicii, Imagine Dragons",
+            "LevelAuthorName": "Oleenick",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_e4d7bc44d2cceb350cca48fc070cbd525b7c9a59",
+            "SongName": "Dear Boy (Avicii Remix)",
+            "SongSubName": "",
+            "SongAuthorName": "",
+            "LevelAuthorName": "Sorkys - Stavros",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "Playlist95961",
+        "PlaylistName": "Imagine Dragons",
+        "SongList": [
+          {
+            "SongID": "custom_level_ce01b25d6c863d8eb9217b0d877a9156bc9ad94f",
+            "SongName": "Bad Liar",
+            "SongSubName": "",
+            "SongAuthorName": "Imagine Dragons",
+            "LevelAuthorName": "Captain Iceblock",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_e599c52d3b44e42507067aa53aa50f422fd91ef5",
+            "SongName": "Battle Cry",
+            "SongSubName": "",
+            "SongAuthorName": "Imagine Dragons",
+            "LevelAuthorName": "noam15A",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_81ece17b0adc6a5f78b1601ed082859f6f1e5904",
+            "SongName": "Believer - Imagine Dragons (Cover)",
+            "SongSubName": "EVOLVE",
+            "SongAuthorName": "Imagine Dragons",
+            "LevelAuthorName": "AnThran",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_9a7a5beadfdd1c7c0f137ecba6e5f6ff377eb390",
+            "SongName": "Believer (100k ver.)",
+            "SongSubName": "",
+            "SongAuthorName": "Imagine Dragons",
+            "LevelAuthorName": "Rustic",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_32d0154aba237ae0e723e394510b213e13b6e2f5",
+            "SongName": "Birds",
+            "SongSubName": "",
+            "SongAuthorName": "Imagine Dragons ft. Elisa",
+            "LevelAuthorName": "Joetastic",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_c1a0fb032474c12d26dc1a80d67e65cb4775509c",
+            "SongName": "Birds",
+            "SongSubName": "",
+            "SongAuthorName": "Imagine Dragons",
+            "LevelAuthorName": "MasterMelonX",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_2ee4d97d606569eb35cb7cabfd12b0bfcc14d355",
+            "SongName": "Cutthroat",
+            "SongSubName": "",
+            "SongAuthorName": "Imagine Dragons",
+            "LevelAuthorName": "Pika22",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_cb489e547e184d9a9a1b8dd6f858c204d1871a56",
+            "SongName": "Demons",
+            "SongSubName": "",
+            "SongAuthorName": "Imagine Dragons",
+            "LevelAuthorName": "officialMECH",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_358804855d7c9e4f2211d9b2efb9ae93949d8112",
+            "SongName": "Friction",
+            "SongSubName": "Friction - Imagine dragons",
+            "SongAuthorName": "Imagine Dragons",
+            "LevelAuthorName": "Infernus",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_6179b4be734b39ce7a5d6f72b64e1e623553791f",
+            "SongName": "Natural",
+            "SongSubName": "",
+            "SongAuthorName": "Imagine Dragons",
+            "LevelAuthorName": "Z-ANESaber",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_1374613734d2d110f06783c7b7c32579e7a2808f",
+            "SongName": "Thunder",
+            "SongSubName": "",
+            "SongAuthorName": "Imagine Dragons",
+            "LevelAuthorName": "Skyler Wallace",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_8ee2cc6242db4d138e620a347e3a2904f2a5b902",
+            "SongName": "Warriors (2020 ReMap)",
+            "SongSubName": "",
+            "SongAuthorName": "Imagine Dragons",
+            "LevelAuthorName": "Stumi",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "Playlist58991",
+        "PlaylistName": "Pendulum",
+        "SongList": [
+          {
+            "SongID": "custom_level_3bbdb41216a9a39f61502fd17d473f5a2012209b",
+            "SongName": "Come Alive",
+            "SongSubName": "",
+            "SongAuthorName": "Pendulum",
+            "LevelAuthorName": "Fatalution",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_d9758375182aa8383064067c7fa327b2c3f3f82d",
+            "SongName": "Crush",
+            "SongSubName": "",
+            "SongAuthorName": "Pendulum",
+            "LevelAuthorName": "Maurdekye",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_9c32cc3ae221bdba20728ac024f23e82ae8ed5d6",
+            "SongName": "Granite",
+            "SongSubName": "",
+            "SongAuthorName": "Pendulum",
+            "LevelAuthorName": "LEh4nnes",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_9a8abade7296f7156f22ff28d205eb49e425b23e",
+            "SongName": "Nothing for Free",
+            "SongSubName": "",
+            "SongAuthorName": "Pendulum",
+            "LevelAuthorName": "DownyCat",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_cd18892d8973c6a5e63beabb8960d83a2b73aaf1",
+            "SongName": "Slam",
+            "SongSubName": "",
+            "SongAuthorName": "Pendulum",
+            "LevelAuthorName": "Fragstar",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_b564c43a1d52e8b51b91f882732e39c65ac9f8c2",
+            "SongName": "The Island P2 Dusk",
+            "SongSubName": "",
+            "SongAuthorName": "Pendulum",
+            "LevelAuthorName": "Purphoros",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_d36a8840403c17a0582fd2760fc315580c82cc8f",
+            "SongName": "Under The Waves",
+            "SongSubName": "",
+            "SongAuthorName": "Pendulum",
+            "LevelAuthorName": "Hoops521",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_bf494108994b4b44d44343eadc655efc8d8e54a3",
+            "SongName": "Watercolour",
+            "SongSubName": "",
+            "SongAuthorName": "Pendulum",
+            "LevelAuthorName": "Dan Cubbon",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_28c075e60af219ac4b23f3e31d8791b09ceafdef",
+            "SongName": "Watercolour",
+            "SongSubName": "Shorter Version",
+            "SongAuthorName": "Pendulum",
+            "LevelAuthorName": "Raphpower",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_77fe8d20d69580e1d1536b31e592a050a6a40bb6",
+            "SongName": "Watercolour",
+            "SongSubName": "",
+            "SongAuthorName": "Pendulum",
+            "LevelAuthorName": "Beatmap by Prime",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_015170851544c832ee4ac858ca6b3425677b1696",
+            "SongName": "Witchcraft",
+            "SongSubName": "",
+            "SongAuthorName": "Pendulum",
+            "LevelAuthorName": "DownyCat",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_794382d60291a704d6ea8ff43f9e0d6ade99db65",
+            "SongName": "Witchcraft",
+            "SongSubName": "",
+            "SongAuthorName": "Pendulum",
+            "LevelAuthorName": "Freeek",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "Playlist72656",
+        "PlaylistName": "Linkin Park",
+        "SongList": [
+          {
+            "SongID": "custom_level_088cb351b433ba9756d8d8e9b93b48de33cf755f",
+            "SongName": "Valentine's Day",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "Captain Arctic",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_094a769e6bff7bf8b68549931000888a87211786",
+            "SongName": "Talking To Myself",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "Heisenberg",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_8a7ac897b29e455fee773430dc56f5388e60d720",
+            "SongName": "Slip",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "Josh Collins",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_f4233352092f73999a64d824261deaf6f23dce1c",
+            "SongName": "Rebellion",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin park",
+            "LevelAuthorName": "W4k",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_431ffaa53a1e45ffab6c81a895e456f6aad1e038",
+            "SongName": "Papercut",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "Heisenberg",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_a75fc983d97415ffdea815586449dca97cc51965",
+            "SongName": "Numb",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "Rigid",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_2e6f858088c6d67e930e1bb357bd7455101b6626",
+            "SongName": "Numb",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "DownyCat",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_e80f867f37808cd7cf1450327a4b445d2d0d8f02",
+            "SongName": "No More Sorrow",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "Skyler Wallace",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_be4a33ad1b1caef9f1f42b680ca1a9087db19ffe",
+            "SongName": "New Divide",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "DownyCat",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_e58341e4b29fb81e07a097142ffdfbb87b97abd0",
+            "SongName": "Leave Out All The Rest",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "Heisenberg",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ea0f7376ab1468f42eb94f091b6d3a96a9bf595c",
+            "SongName": "Heavy",
+            "SongSubName": "ft. Kiiara",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "LuxAce",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_894184d7d3dda4f5aa8e154da6928ab5a47e9422",
+            "SongName": "Given Up",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "DownyCat",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ddf1d02a4724ec41b4d2c3535674489329b6fbe8",
+            "SongName": "From The Inside",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "Heisenberg",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ecf542968b97d2806c426e3b9c7ec9205e00d9b2",
+            "SongName": "Figure.09",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "Captain Arctic",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_b7c249064761873917d1cb30b8a268691137cfb0",
+            "SongName": "Faint",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "Car50nx",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_691b382b6ca6e69b9b908e41d439f9b7b9403fb6",
+            "SongName": "Crawling",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "DownyCat",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_683e6964673ce08962f8b834e27eeb03a6835b79",
+            "SongName": "Castle Of Glass",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "cookie",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_944803eb1b3c1bcd75906f9108f00b3110ad7c2c",
+            "SongName": "Castle Of Glass",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "BluMoos",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_61dd3f274f3379c18f524ba1aa3e6e1f71fdccfc",
+            "SongName": "Breaking The Habit",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "Ris",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_34d5a1bf527d1f32bb80062cec47e065d9901322",
+            "SongName": "Blackout",
+            "SongSubName": "",
+            "SongAuthorName": "LinkinPark",
+            "LevelAuthorName": "rUsH",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_a888cfcb13893d6916509cfc9c13352998a3d7af",
+            "SongName": "CASTLE OF GLASS",
+            "SongSubName": "",
+            "SongAuthorName": "Linkin Park",
+            "LevelAuthorName": "Beat Sage",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "Playlist70476",
+        "PlaylistName": "Skyline",
+        "SongList": [
+          {
+            "SongID": "custom_level_d4f0fa719975238e3c2172cc2014e7843cd7bc49",
+            "SongName": "FAIRYTALE TELLER",
+            "SongSubName": "",
+            "SongAuthorName": "skylinetv",
+            "LevelAuthorName": "Beat Sage",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_19f44573e2844ae3ab2edb88a1c05e63d2517251",
+            "SongName": "PRETTY PRINCESS",
+            "SongSubName": "",
+            "SongAuthorName": "skylinetv",
+            "LevelAuthorName": "Beat Sage",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_27fe7a40f91ad77c8505329d3d99226c151dc8c0",
+            "SongName": "Rave",
+            "SongSubName": "",
+            "SongAuthorName": "Skyline",
+            "LevelAuthorName": "Beat Sage",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_130cf6beffec3f7d823aa925557ce54dc1c1856c",
+            "SongName": "Skyline -  Ocean (Official Video)",
+            "SongSubName": "",
+            "SongAuthorName": "skyline",
+            "LevelAuthorName": "Beat Sage",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "Playlist33990",
+        "PlaylistName": "Skrillex",
+        "SongList": [
+          {
+            "SongID": "custom_level_766e956108568d316d743b23cb94d57be56f465c",
+            "SongName": "Bangarang",
+            "SongSubName": "",
+            "SongAuthorName": "Skrillex",
+            "LevelAuthorName": "MonsterWook and Fvrwvrd",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_137e76fcfb08e99695f481f7133cef173fd7fa8e",
+            "SongName": "Bangarang",
+            "SongSubName": "",
+            "SongAuthorName": "Skrillex",
+            "LevelAuthorName": "nitronik.exe",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_cd6dd5abb922556d818c3c3db8807bc4a4441358",
+            "SongName": "Bangarang",
+            "SongSubName": "(ft. Sirah)",
+            "SongAuthorName": "Skrillex",
+            "LevelAuthorName": "xScaramouche",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_417f685b829c136d8dd1696b36212c7209144913",
+            "SongName": "Butterflies",
+            "SongSubName": "",
+            "SongAuthorName": "Skrillex, Starrah & Four Tet",
+            "LevelAuthorName": "xScaramouche",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_8710ff553064c326c282a934011a175c4e059bfe",
+            "SongName": "Father Said",
+            "SongSubName": "(feat. 12th Planet)",
+            "SongAuthorName": "Skrillex",
+            "LevelAuthorName": "Kansas",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_2feafef61cad57ea2d6608eb54c39f139abb48c1",
+            "SongName": "First of the Year",
+            "SongSubName": "(Equinox)",
+            "SongAuthorName": "Skrillex",
+            "LevelAuthorName": "xScaramouche & Checkthepan & Halcyon12",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_e9ac6bc359f119ef8c67a72a4cd49405a5770c4f",
+            "SongName": "Kyoto",
+            "SongSubName": "ft. Sirah",
+            "SongAuthorName": "Skrillex",
+            "LevelAuthorName": "nitronik.exe",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "Playlist11753",
+        "PlaylistName": "Three Days Grace",
+        "SongList": [
+          {
+            "SongID": "custom_level_d70760e0c3e039b94b68491eb7fbadaf5592dff2",
+            "SongName": "Painkiller",
+            "SongSubName": "",
+            "SongAuthorName": "Three Days Grace",
+            "LevelAuthorName": "DexterM451",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_507fda086d143e8036aa0dcadde191f3e239453e",
+            "SongName": "Pain",
+            "SongSubName": "",
+            "SongAuthorName": "Three Days Grace",
+            "LevelAuthorName": "Slide",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_695b6b13084981b5ad2d5a885919f5b4e134e4e3",
+            "SongName": "Just Like You",
+            "SongSubName": "",
+            "SongAuthorName": "Three Days Grace",
+            "LevelAuthorName": "Slide",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_60c318b8f1b977a8ec83419df6662858254db59f",
+            "SongName": "I Hate Everything About You",
+            "SongSubName": "",
+            "SongAuthorName": "Three Days Grace",
+            "LevelAuthorName": "Slide",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_bce65a07d87a9c501407072178a23c514f901850",
+            "SongName": "I Am Machine",
+            "SongSubName": "",
+            "SongAuthorName": "Three Days Grace",
+            "LevelAuthorName": "MLG MILK 2: THE RETURN",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_93e54386380a3f68d94c09270b361804e27168a6",
+            "SongName": "Break",
+            "SongSubName": "",
+            "SongAuthorName": "Three Days Grace",
+            "LevelAuthorName": "ConnorJC",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_1e5de6a1d1dcc51ebc441e07ee42a19c00ee3bef",
+            "SongName": "Animal I Have Become",
+            "SongSubName": "",
+            "SongAuthorName": "Three Days Grace",
+            "LevelAuthorName": "Ris",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "Playlist23392",
+        "PlaylistName": "Tenacious D",
+        "SongList": [
+          {
+            "SongID": "custom_level_9429d26592271d1fdcd59c040bda8c96e31c6790",
+            "SongName": "Low Hangin' Fruit",
+            "SongSubName": "",
+            "SongAuthorName": "Tenacious D",
+            "LevelAuthorName": "Technal",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_13cf15b0bb110cf61b4b58c2dd4229b9aca45025",
+            "SongName": "Fuck Her Gently",
+            "SongSubName": "",
+            "SongAuthorName": "Tenacious D",
+            "LevelAuthorName": "Heisenberg",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_c09438acf05c9c3ad78fca01949f90bf32b5addf",
+            "SongName": "Rock Your Socks",
+            "SongSubName": "",
+            "SongAuthorName": "Tenacious D",
+            "LevelAuthorName": "Ryger, Checkthepan",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_3463a098903d94d54ca56bf5cc8db8fd1b48d1e8",
+            "SongName": "The Metal (GH3)",
+            "SongSubName": "",
+            "SongAuthorName": "Tenacious D",
+            "LevelAuthorName": "VirdsEyeBiew",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_da7d5c78498593b6ae2d340161440b2653855a03",
+            "SongName": "Master Exploder",
+            "SongSubName": "",
+            "SongAuthorName": "Tenacious D",
+            "LevelAuthorName": "FloxD",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "19-04-12_songs-with-fantastic-flow-vol-5_elliotttate",
+        "PlaylistName": "Songs With Fantastic Flow Vol 5",
+        "SongList": [
+          {
+            "SongID": "custom_level_ab5ec7d8c0976c8acb1ed48889fce51666fabf45",
+            "SongName": "Sound Of An Orchestra",
+            "SongSubName": "",
+            "SongAuthorName": "MIKA",
+            "LevelAuthorName": "NovaShaft",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ec8dc26331e1eff4d4fabeed45b927c49a61f8ca",
+            "SongName": "Happier Sunflower",
+            "SongSubName": "",
+            "SongAuthorName": "Dj Pyromania, Marshmello, Post Malone, Bastille, Swae Lee",
+            "LevelAuthorName": "Ruckus",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_7c8386fe26e465cb134f0052e57227dd6311849c",
+            "SongName": "Shut it Down",
+            "SongSubName": "",
+            "SongAuthorName": "Muzzy & Teddy Killerz",
+            "LevelAuthorName": "Rustic",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ed45aeb002a409af00becad57a8cee017fbdcc2c",
+            "SongName": "Power Glove",
+            "SongSubName": "",
+            "SongAuthorName": "Knife Party",
+            "LevelAuthorName": "LittleAsi, baxter395, Ryger",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_fdd3fd8a25a79c114184cef10633fe6a57c7eb4c",
+            "SongName": "Still Into You",
+            "SongSubName": "",
+            "SongAuthorName": "Paramore",
+            "LevelAuthorName": "NovaShaft",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_cde7ecf81d22ba722efce90d8fb1eaa093354b33",
+            "SongName": "Shes Kerosene",
+            "SongSubName": "",
+            "SongAuthorName": "The Interupters",
+            "LevelAuthorName": "GreatYazer",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_d6675f644e47f84789a0376a746a2514e8e7b7ff",
+            "SongName": "Meant to Live",
+            "SongSubName": "",
+            "SongAuthorName": "Switchfoot",
+            "LevelAuthorName": "aggrogahu",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_52b2ccb7219153e58f0ef052e46d2cf3a4f0ac21",
+            "SongName": "Footloose",
+            "SongSubName": "",
+            "SongAuthorName": "Kenny Loggins",
+            "LevelAuthorName": "Majorpickle",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_72655f8bdec5a9ae28bde0e576ac936763c2f82e",
+            "SongName": "Stop Me When You've Had Enough",
+            "SongSubName": "",
+            "SongAuthorName": "Nural",
+            "LevelAuthorName": "Stumi",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_2b8ffb67c1562eaeeaf1cc8fc2ab321d69540611",
+            "SongName": "Boom Kah (ft. Mikael Gabriel & Uniikki)",
+            "SongSubName": "",
+            "SongAuthorName": "Robin",
+            "LevelAuthorName": "NovaShaft",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_b69e2baff3933b3278cea1fc6352d4626b555ed2",
+            "SongName": "Bust A Move",
+            "SongSubName": "",
+            "SongAuthorName": "Young MC",
+            "LevelAuthorName": "GreatYazer",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_b5483e3f38df32d233700b49a0bdbf72ba1650cc",
+            "SongName": "High Enough ft. Rosie Darling",
+            "SongSubName": "",
+            "SongAuthorName": "Justin Caruso",
+            "LevelAuthorName": "BennyDaBeast",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_a6cced35a0ac357cc16d5e4328be59e52339a157",
+            "SongName": "Hold Me Down",
+            "SongSubName": "",
+            "SongAuthorName": "Halsey",
+            "LevelAuthorName": "StyngMe",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_e64cd1d5c21c11adf9312b06b6e4928cd382b37e",
+            "SongName": "Soca Kingdom",
+            "SongSubName": "",
+            "SongAuthorName": "Machel Montano x Superblue",
+            "LevelAuthorName": "Joetastic",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_1078f8128effc0b79f19adf2b7aeed613afabac6",
+            "SongName": "Sk8er Boi",
+            "SongSubName": "",
+            "SongAuthorName": "Avril Lavigne",
+            "LevelAuthorName": "Joetastic",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_c86e3d35feeb08e4569dabe2389558ba40fa5bf7",
+            "SongName": "Orion (Beat Saber Edit)",
+            "SongSubName": "",
+            "SongAuthorName": "Getsix",
+            "LevelAuthorName": "Kolezan",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_6ae2ff433fb5a570eeb0801f30a01b446bde2c15",
+            "SongName": "Runaway Baby V2",
+            "SongSubName": "",
+            "SongAuthorName": "Bruno Mars",
+            "LevelAuthorName": "ejiejidayo",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_bae9f42e64c14c8b1740c5bedc0e1c1db8c33c7d",
+            "SongName": "Here With Me (feat. CHVRCHES)",
+            "SongSubName": "",
+            "SongAuthorName": "Marshmello",
+            "LevelAuthorName": "NovaShaft",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_a655941b4ef459a492b528a9bf0e7dac4542558c",
+            "SongName": "Nyan Cat Elevator ",
+            "SongSubName": "",
+            "SongAuthorName": "NST Audioworks",
+            "LevelAuthorName": "Ryger",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_2632be096212463b810f34d3789bdb2809202f0e",
+            "SongName": "Paper Planes",
+            "SongSubName": "",
+            "SongAuthorName": "M.I.A.",
+            "LevelAuthorName": "baxter395, LittleAsi, Kaiza",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_58cd8ddf99600d967bca61285e9e0c429138009d",
+            "SongName": "The Greatest (ft. Kendrick Lamar)",
+            "SongSubName": "",
+            "SongAuthorName": "Sia",
+            "LevelAuthorName": "BennyDaBeast",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_32982221e83472cb9de404fa008836a56d1a52dc",
+            "SongName": "Happy",
+            "SongSubName": "",
+            "SongAuthorName": "Pharrell Williams",
+            "LevelAuthorName": "Ryger",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_6a9042eb11d4da0938bbdaa0f584131def762f4a",
+            "SongName": "MAYDAY",
+            "SongSubName": "",
+            "SongAuthorName": "TheFatRat & Laura Brehm",
+            "LevelAuthorName": "Oddloop",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_faaf456bb562bc5e0ccfc484f5e3f00bbdf76bd3",
+            "SongName": "Hey, Soul Sister",
+            "SongSubName": "",
+            "SongAuthorName": "Train",
+            "LevelAuthorName": "Joetastic",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_34bc80223a8465da7e3bc2294d492435bcc3a25d",
+            "SongName": "BIBA",
+            "SongSubName": "",
+            "SongAuthorName": "Marshmello, Pritam",
+            "LevelAuthorName": "StyngMe",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_85d2c4820f0cb6a2a80fc781a5811d4553c335ba",
+            "SongName": "Alone",
+            "SongSubName": "",
+            "SongAuthorName": "Marshmello",
+            "LevelAuthorName": "baxter395",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_a0a47294fb53049a8003e5ea36f2c290ec5bd3c9",
+            "SongName": "Your Love",
+            "SongSubName": "",
+            "SongAuthorName": "David Guetta & Showtek",
+            "LevelAuthorName": "NovaShaft",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_9806122508a206e309cccdc288c8ae35db4dbc9c",
+            "SongName": "Don't Need Nobody",
+            "SongSubName": "",
+            "SongAuthorName": "Ellie Goulding",
+            "LevelAuthorName": "Majorpickle",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_acab34400a007edbcc4868cda6683572be791d49",
+            "SongName": "Find That Someone (feat. Richard)",
+            "SongSubName": "",
+            "SongAuthorName": "Televisor",
+            "LevelAuthorName": "Moriik",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_164414d063e1728486f7996582a10250652940ec",
+            "SongName": "Girlfriend",
+            "SongSubName": "",
+            "SongAuthorName": "Avril Lavigne",
+            "LevelAuthorName": "BennyDaBeast",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_a326a6a393b8805096facfe06fe59e274787838a",
+            "SongName": "The Anthem",
+            "SongSubName": "",
+            "SongAuthorName": "Good Charlotte",
+            "LevelAuthorName": "DownyCat",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_63d2d5920e6676f63bf997ae606b6d1590cd8c8d",
+            "SongName": "Kamikaze",
+            "SongSubName": "",
+            "SongAuthorName": "WALK THE MOON",
+            "LevelAuthorName": "BennyDaBeast",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_57270169891a97ae7e8ed0ba58e652e6adf68be8",
+            "SongName": "Tonight",
+            "SongSubName": "",
+            "SongAuthorName": "Sunset Neon",
+            "LevelAuthorName": "BlackBlazon & EpicEwok",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_f61c59f2eaad439e0e026c53bbe76dfaf789abda",
+            "SongName": "Try Everything (From Disney's Zootopia)",
+            "SongSubName": "",
+            "SongAuthorName": "Shakira",
+            "LevelAuthorName": "Majorpickle",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_35543c7d6f0d1e5a3ad3b2c647a083f987300577",
+            "SongName": "Wobble",
+            "SongSubName": "",
+            "SongAuthorName": "Crankdat & Tisoki",
+            "LevelAuthorName": "Fafurion",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_6d8623717bb19b7e56d1345e1c91f2c26c572b6f",
+            "SongName": "For the glory (Edit)",
+            "SongSubName": "",
+            "SongAuthorName": "All good things",
+            "LevelAuthorName": "Stumi",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_19a00f2fbe514aa821cf8ad68962d53bfa28b731",
+            "SongName": "Came Here for Love",
+            "SongSubName": "",
+            "SongAuthorName": "Sigala & Ella Eyre",
+            "LevelAuthorName": "BennyDaBeast",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_11621a2effc185bf6ae4c7526c9db8cf435fd9b2",
+            "SongName": "7 Years",
+            "SongSubName": "",
+            "SongAuthorName": "Lukas Graham",
+            "LevelAuthorName": "Stumi",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_712ee0801ae2e65e4cd7ea5377bcf272981b57c6",
+            "SongName": "Ghosts n Stuff (feat. Rob Swire)",
+            "SongSubName": "",
+            "SongAuthorName": "deadmau5",
+            "LevelAuthorName": "Skyler Wallace",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_5d3f6821934945c581882c067ef44d7e8c086423",
+            "SongName": "Drive By",
+            "SongSubName": "",
+            "SongAuthorName": "Train",
+            "LevelAuthorName": "Joetastic",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_46afff5698b59795c5e88f0b610b8321fb9b1791",
+            "SongName": "Hit the Road Jack (Electro Swing)",
+            "SongSubName": "",
+            "SongAuthorName": "Wolfgang Lohr and Maskerade",
+            "LevelAuthorName": "Stumi",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_84ac2667162920902490fb1a572ed4cf5ad50a1f",
+            "SongName": "Alone feat. Kyle Reynolds",
+            "SongSubName": "",
+            "SongAuthorName": "Asketa & Natan Chaim",
+            "LevelAuthorName": "BennyDaBeast",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_9bd5e0efe697a38fe0da28f252a8bfb870da630a",
+            "SongName": "Better When I'm Dancin'",
+            "SongSubName": "",
+            "SongAuthorName": "Meghan Trainor",
+            "LevelAuthorName": "BennyDaBeast",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_f0bef11ce8866052770c42ed855e5d21e935614c",
+            "SongName": "I Don't Wanna Be In Love (Dance Floor Anthem)",
+            "SongSubName": "",
+            "SongAuthorName": "Good Charlotte",
+            "LevelAuthorName": "DownyCat",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_58fd2a28e6c3d6862084da1ec1b92c99090c5cd5",
+            "SongName": "To The Stars",
+            "SongSubName": "",
+            "SongAuthorName": "Braken",
+            "LevelAuthorName": "DownyCat",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_57a7fabbfa373eb2576402c6cb3460ce6be0b3f3",
+            "SongName": "LIKEY",
+            "SongSubName": "",
+            "SongAuthorName": "TWICE",
+            "LevelAuthorName": "Sotarks",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_459ad89d9dbfafecb7dffbb71371ac82047c5260",
+            "SongName": "End Of The Night",
+            "SongSubName": "",
+            "SongAuthorName": "Robert Parker",
+            "LevelAuthorName": "BlackBlazon & EpicEwok",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_82ff9811ce5c699b852d5d7174ae8b93792cc97c",
+            "SongName": "Can't Get Enough",
+            "SongSubName": "",
+            "SongAuthorName": "Lookas",
+            "LevelAuthorName": "Rustic",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "21-05-08_Fitbeat_Map_Pack",
+        "PlaylistName": "Fitbeat Map Pack",
+        "SongList": [
+          {
+            "SongID": "custom_level_81f74ad9681c21c98b4a7debb0597fcb1d5884dd",
+            "SongName": "Rampage",
+            "SongSubName": "",
+            "SongAuthorName": "USAO",
+            "LevelAuthorName": "Alice.FIT & FakePope",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_af179788376628d9fa7c9828a67aa349c1a993a5",
+            "SongName": "Windows Down",
+            "SongSubName": "(Nightcore)",
+            "SongAuthorName": "Big Time Rush",
+            "LevelAuthorName": "Alice.FIT",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_b85626bc94dbc4e1bfbbff37fbaeb3e8bb5baf76",
+            "SongName": "FLY",
+            "SongSubName": "",
+            "SongAuthorName": "Tokyo Machine",
+            "LevelAuthorName": "Alice.FIT",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_2915d2a6793f90bba151510e23c0b5b00f4049cc",
+            "SongName": "Don't Stop (Color On The Walls)",
+            "SongSubName": "",
+            "SongAuthorName": "Foster The People",
+            "LevelAuthorName": "Alice.FIT",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_7e612713c3953fe5e1787deab63297b06320e8a0",
+            "SongName": "Reactor Party",
+            "SongSubName": "",
+            "SongAuthorName": "Shitdisco",
+            "LevelAuthorName": "Alice.FIT",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_7357c2a3bbaafd995ef7a384c101bf54cef723b4",
+            "SongName": "Wellerman",
+            "SongSubName": "(Sea Shanty - Nathan Evans x ARGULES)",
+            "SongAuthorName": "Nathan Evans",
+            "LevelAuthorName": "Alice.FIT",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_7f13dfc265d6bf88bba55345800cbb7881fa5b97",
+            "SongName": "GIMME DA BLOOD",
+            "SongSubName": "",
+            "SongAuthorName": "C-Show",
+            "LevelAuthorName": "Alice",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_7e4177dfb2b58e647780a0e8e96aedb652f5ffd7",
+            "SongName": "Exhaust Hype",
+            "SongSubName": "",
+            "SongAuthorName": "DJ Noriken",
+            "LevelAuthorName": "Alice.FIT",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_37b35e60a1c54ddb8409e916131e4aee628b985c",
+            "SongName": "I Like Trains",
+            "SongSubName": "(asdfmovie song)",
+            "SongAuthorName": "LilDeuceDeuce",
+            "LevelAuthorName": "Alice.FIT",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "CuratorsPicks2020",
+        "PlaylistName": "Curators' Picks of 2020",
+        "SongList": [
+          {
+            "SongID": "custom_level_55623d17d5d1f40320d487889237402c86eb4b69",
+            "SongName": "Mangalam",
+            "SongSubName": "",
+            "SongAuthorName": "Will Sparks & Maddix",
+            "LevelAuthorName": "Pixelguy",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_0dadd6ab18e3ca0011459f16366e41ecffa5029e",
+            "SongName": "The Sirens",
+            "SongSubName": "",
+            "SongAuthorName": "Seven Lions & Jason Ross",
+            "LevelAuthorName": "Checkthepan",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_c28ac0c2eac67c79b893ba3a1f432a27dd3a368b",
+            "SongName": "Emergency (Nightcore Mix)",
+            "SongSubName": "",
+            "SongAuthorName": "Kim Leoni",
+            "LevelAuthorName": "ejiejidayo",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_46f95a01988f37cf1b0c32ae0ddd4c7e50d00273",
+            "SongName": "4AEm",
+            "SongSubName": "",
+            "SongAuthorName": "Grimes",
+            "LevelAuthorName": "xScaramouche & JohnnyDee",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_de8d4897b4de34d318b46aa2ca3d1f6f4fc35c3b",
+            "SongName": "everything i wanted",
+            "SongSubName": "",
+            "SongAuthorName": "Billie Eilish",
+            "LevelAuthorName": "Ryger",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_22da796f08f777c437d4996d52ea1778e8e762ae",
+            "SongName": "Light It Up",
+            "SongSubName": "ft. Jex",
+            "SongAuthorName": "Robin Hustin, TobiMorrow",
+            "LevelAuthorName": "Halcyon12",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_adfb061b05992c7e68fd2306d61fa1ccbaa0736e",
+            "SongName": "Say so",
+            "SongSubName": "",
+            "SongAuthorName": "Doja Cat",
+            "LevelAuthorName": "hwatwhy",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_9925c917ba0733497927fa3bf498ba7ecec880ce",
+            "SongName": "DUN DUN",
+            "SongSubName": "",
+            "SongAuthorName": "Everglow",
+            "LevelAuthorName": "simplymarvellous",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_b231c5f2f043736bb8aced12c8fa1d3727a194b8",
+            "SongName": "This Time",
+            "SongSubName": "(ft. Pryvt Ryn)",
+            "SongAuthorName": "Jasted & Vovich",
+            "LevelAuthorName": "Various Mappers",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_b8be8755bfa98405e0633c0639e9aea642759f69",
+            "SongName": "ROXANNE",
+            "SongSubName": "",
+            "SongAuthorName": "Arizona Zervas",
+            "LevelAuthorName": "xScaramouche",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_704e58d0fe125c0d34230b297f6f4956b11a5d29",
+            "SongName": "Frozen (Hardstyle Remix)",
+            "SongSubName": "",
+            "SongAuthorName": "Da Tweekaz",
+            "LevelAuthorName": "Dyprax83",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_1092580155e72788bdb54738a75cc61c4e15f34c",
+            "SongName": "Bring The Madness",
+            "SongSubName": "(Noisestorm Remix)",
+            "SongAuthorName": "Pegboard Nerds & Excision",
+            "LevelAuthorName": "Timeweaver",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ccf7ce7194d214226df72709d8d85863a64c6e8d",
+            "SongName": "Strip",
+            "SongSubName": "",
+            "SongAuthorName": "Jessie J",
+            "LevelAuthorName": "JohnnyDee",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_7d07ddfbd106d0aa131297812509f339ba4711bf",
+            "SongName": "Adore You",
+            "SongSubName": "",
+            "SongAuthorName": "Harry Styles",
+            "LevelAuthorName": "DGRJ 4 Life",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_4985a87889bb2c6cd3e176436892b267576ba286",
+            "SongName": "September",
+            "SongSubName": "",
+            "SongAuthorName": "Earth Wind and Fire",
+            "LevelAuthorName": "Ryger",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ac7fc4110e3a67073f70f9788251b7d13f5cf3a3",
+            "SongName": "Titans",
+            "SongSubName": "",
+            "SongAuthorName": "Aero Chord & Razhiel",
+            "LevelAuthorName": "Timeweaver",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_24a148cdf2192f7a4f10a265b70e5c0deb6424e9",
+            "SongName": "Meowchine",
+            "SongSubName": "",
+            "SongAuthorName": "Azazal & MachineDoll",
+            "LevelAuthorName": "CyanSnow",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_78b252ccb1a3eca9f4e79a091b0d8c0e75a13675",
+            "SongName": "Vibe",
+            "SongSubName": "",
+            "SongAuthorName": "Cookiee Kawaii",
+            "LevelAuthorName": "Checkthepan",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_94e31eda51f8afd9e59c9895972b80775556cf6a",
+            "SongName": "Scream",
+            "SongSubName": "",
+            "SongAuthorName": "Dreamcatcher",
+            "LevelAuthorName": "noxn; simplymarvellous; aggrogahu",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_4ab156dea453efe020dedf630b05f82608d7e519",
+            "SongName": "Cake",
+            "SongSubName": "",
+            "SongAuthorName": "Salvatore Ganacci & Megatone",
+            "LevelAuthorName": "Mawntee",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_8bc5a578e271d4bc300685e843f132e7195058e6",
+            "SongName": "Atikapatum",
+            "SongSubName": "Angemi Remix",
+            "SongAuthorName": "ATIKA PATUM",
+            "LevelAuthorName": "JohnnyDee",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_e5e7a9b754a73dd802f41cca5f039444542c5c4a",
+            "SongName": "We Own The Night",
+            "SongSubName": "",
+            "SongAuthorName": "Dance Gavin Dance",
+            "LevelAuthorName": "hwatwhy",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_3a49f1b40044ba90eb27963c29121537cec28a44",
+            "SongName": "Warriors",
+            "SongSubName": "(feat. Edda Hayes)",
+            "SongAuthorName": "2WEI, League of Legends",
+            "LevelAuthorName": "Halcyon12",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_77e731bb6040a2df0e3561722a18381299f570f6",
+            "SongName": "Crave",
+            "SongSubName": "",
+            "SongAuthorName": "Pharrell Williams",
+            "LevelAuthorName": "Ryger",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_e798ff36094ed372f69c13e5f5cf10c6d990654c",
+            "SongName": "The Drop (Stonebank Remix)",
+            "SongSubName": "[The Remixes pt.1]",
+            "SongAuthorName": "Gammer, Stonebank",
+            "LevelAuthorName": "Timeweaver",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_9b6078fbc0898bdd41c845cc8bc6fb7e1db06023",
+            "SongName": "Formula",
+            "SongSubName": "",
+            "SongAuthorName": "RL Grime & Juelz",
+            "LevelAuthorName": "Xhera",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_77d484199fa42d8c0573c0409380c4ecb793452a",
+            "SongName": "Lift Me From The Ground (NOKO Remix)",
+            "SongSubName": "",
+            "SongAuthorName": "San Holo",
+            "LevelAuthorName": "DGRJ 4 Life",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_aad2c8b5d2cf59de03ac724e136df3b077161995",
+            "SongName": "Gimme Love",
+            "SongSubName": "",
+            "SongAuthorName": "Joji",
+            "LevelAuthorName": "Skyler Wallace",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_7934948332f105a3c3caa6223021bcf37afdceb5",
+            "SongName": "Groovin Up",
+            "SongSubName": "",
+            "SongAuthorName": "Mycin.T",
+            "LevelAuthorName": "ejiejidayo",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_3ead7ddf5ea1e3aa59931f473d59d534776d862c",
+            "SongName": "Nerds Trying To Dance",
+            "SongSubName": "",
+            "SongAuthorName": "Pedestrian Tactics",
+            "LevelAuthorName": "Checkthepan",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_d03086c064a4546e4c5bfe6ef79545850fd1ac98",
+            "SongName": "Are We Still Young",
+            "SongSubName": "",
+            "SongAuthorName": "grant",
+            "LevelAuthorName": "Checkthepan",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_e3ca0f301acdd64baa1e73239802f9745f12d40e",
+            "SongName": "Never There",
+            "SongSubName": "",
+            "SongAuthorName": "Cake",
+            "LevelAuthorName": "Ryger",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_2c388532c027b389ec1cd0a0c06d94c4b21d860b",
+            "SongName": "TRICKL4SH 220",
+            "SongSubName": "",
+            "SongAuthorName": "Lite Show Magic",
+            "LevelAuthorName": "cerret",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_d4b6dc79eecf0b662f62befddeb255932743ce11",
+            "SongName": "Chained To The Rhythm",
+            "SongSubName": "(feat. Skip Marley)",
+            "SongAuthorName": "Katy Perry",
+            "LevelAuthorName": "Dont-Shoot-ME",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_237109cfbdf4594de63bd16c52a18204d85ad778",
+            "SongName": "The Government Knows",
+            "SongSubName": "",
+            "SongAuthorName": "KNOWER",
+            "LevelAuthorName": "Ramen Noodle",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_72746e0a89246d11a8fe7f3a23113f4605980a09",
+            "SongName": "BAAM",
+            "SongSubName": "Remastered Map",
+            "SongAuthorName": "MOMOLAND",
+            "LevelAuthorName": "Bloodcloak",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_a3b407cf24a7b24c9c807fba8a850af3ac6ad4c7",
+            "SongName": "Beat It (Mutrix Dubstep Remix)",
+            "SongSubName": "",
+            "SongAuthorName": "Michael Jackson",
+            "LevelAuthorName": "pkdan",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_9f9f5c00b449549b1c276209148551c38abf495a",
+            "SongName": "Cliffs of Dover",
+            "SongSubName": "",
+            "SongAuthorName": "Eric Johnson",
+            "LevelAuthorName": "Checkthepan",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_16ad35100c70e791db76d60cac2f59e60d41e159",
+            "SongName": "Becoming Insane",
+            "SongSubName": "(Remix)",
+            "SongAuthorName": "Infected Mushroom",
+            "LevelAuthorName": "JohnnyDee",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_8a79c8f981408004d98b04020cc7a6a57982ae9b",
+            "SongName": "I'm Coming Out",
+            "SongSubName": "",
+            "SongAuthorName": "Dianna Ross",
+            "LevelAuthorName": "Ryger",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_1f288d9c805e51799b723be65694f3ac763c2ced",
+            "SongName": "Nacreous Snowmelt",
+            "SongSubName": "",
+            "SongAuthorName": "Camellia",
+            "LevelAuthorName": "Umbranox",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_e407492e708cfb2c9d57eebfc1d1355a87c0d403",
+            "SongName": "FLYERS",
+            "SongSubName": "",
+            "SongAuthorName": "Girls' Generation (SNSD)",
+            "LevelAuthorName": "noxn",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_2dddd6672560cb2c1d4c689ff31b5ea58ef1641e",
+            "SongName": "Falling",
+            "SongSubName": "",
+            "SongAuthorName": "Dropgun x Asketa & Natan Chaim",
+            "LevelAuthorName": "Teuflum",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_00bf2a9986cbced22ae2afb56f8ceba4ee48fd5b",
+            "SongName": "Bon-no-yu-gi",
+            "SongSubName": "",
+            "SongAuthorName": "Reol",
+            "LevelAuthorName": "Pixelguy",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_4f34d2d56734d4d5cc182c06f1411f1042d3e386",
+            "SongName": "Stay Gold",
+            "SongSubName": "",
+            "SongAuthorName": "BTS",
+            "LevelAuthorName": "Todai & simplymarvellous",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_60d0a66737d9114c883b1f9a3293595e42adbfcb",
+            "SongName": "HINODE",
+            "SongSubName": "(Basscore VIP)",
+            "SongAuthorName": "Camellia",
+            "LevelAuthorName": "cerret",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_fbacad01ff82c3457fd0e5a1907d5c1c07a20a93",
+            "SongName": "IZANA",
+            "SongSubName": "",
+            "SongAuthorName": "t+pazolite vs PLight",
+            "LevelAuthorName": "That_Narwhal",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_a876d6684401d6383fdf42312e78ee9341dbedfb",
+            "SongName": "Get It Right",
+            "SongSubName": "",
+            "SongAuthorName": "Left Boy",
+            "LevelAuthorName": "JohnnyDee",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_b068a980593f7f29a1a24d6590578f1ea0530784",
+            "SongName": "2U",
+            "SongSubName": "",
+            "SongAuthorName": "Bad Computer",
+            "LevelAuthorName": "Rexxz & Shappy",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_3f9fc40da181ed1adbd7bff06e21d891d8a6bfb2",
+            "SongName": "Shelter",
+            "SongSubName": "Pure 100% Remix",
+            "SongAuthorName": "Porter Robinson & Madeon",
+            "LevelAuthorName": "muffn & SpiritusNoctis",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_f6cd4ba3572b7bf12bea541451598499c1708d48",
+            "SongName": "Weird Dream",
+            "SongSubName": "",
+            "SongAuthorName": "Domastic",
+            "LevelAuthorName": "Lethrial",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_29dde323eed7adf45c3e032616a8be95a10be260",
+            "SongName": "OATH",
+            "SongSubName": "TWO LANES Remix",
+            "SongAuthorName": "DROELOE",
+            "LevelAuthorName": "Rexxz",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_4dae6a9acbd07597a63a87cf738e4f2c4b3ae40d",
+            "SongName": "Naked",
+            "SongSubName": "",
+            "SongAuthorName": "Jonas Blue, MAX",
+            "LevelAuthorName": "Shappy",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_99c0882f9d1b22017856ff98cb18aaf994453400",
+            "SongName": "Blinding Lights",
+            "SongSubName": "",
+            "SongAuthorName": "The Weeknd",
+            "LevelAuthorName": "ExtraCheesy & DGRJ4Life",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_4d94368448a9962c7a89240cd24a095bc1abc7fc",
+            "SongName": "Everyday Ft. Yosie",
+            "SongSubName": "",
+            "SongAuthorName": "Virtual Riot",
+            "LevelAuthorName": "WeMadeThis",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_4b820bc4ce0e5dce2c1348e75bf05cb76feba328",
+            "SongName": "Feel Something",
+            "SongSubName": "",
+            "SongAuthorName": "ILLENIUM, Excision, I Prevail",
+            "LevelAuthorName": "TranquillizeMe, xScaramouche",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_862d6da8d494fa5d4a40788330d76f52ddc58f4d",
+            "SongName": "Voices",
+            "SongSubName": "(feat. TZAR)",
+            "SongAuthorName": "Brooks & KSHMR",
+            "LevelAuthorName": "Halcyon12",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_d9d524d8452ba6875da5bcacbf2de7b1ae38c593",
+            "SongName": "Latch",
+            "SongSubName": "",
+            "SongAuthorName": "Disclosure",
+            "LevelAuthorName": "DGRJ 4 Life",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "BloqBustersVol1-DroeloexJaiWolf",
+        "PlaylistName": "DROELOE x Jai Wolf (Bloq Busters Vol. 1)",
+        "SongList": [
+          {
+            "SongID": "custom_level_4ede0d3569dfbc764c140068841af25617538fda",
+            "SongName": "Grind & Hustle",
+            "SongSubName": "",
+            "SongAuthorName": "DROELOE",
+            "LevelAuthorName": "Skyler Wallace",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_78127c0662aec83d11b3b41b724ac2a3a2a3ae6e",
+            "SongName": "Say My Name",
+            "SongSubName": "Jai Wolf Remix | ft. Zyra",
+            "SongAuthorName": "ODESZA",
+            "LevelAuthorName": "Aeroluna & CyanSnow",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_da5ede48408beb9b1b54652f8357d0c9f06f0b6f",
+            "SongName": "Indian Summer",
+            "SongSubName": "",
+            "SongAuthorName": "Jai Wolf",
+            "LevelAuthorName": "Skyler & baxter395",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_8c908adc06b59fc2eb126307fa3a332837e12573",
+            "SongName": "Written Maze",
+            "SongSubName": "ft. Iris Penning",
+            "SongAuthorName": "DROELOE",
+            "LevelAuthorName": "Skyler & Rexxz",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_1c9edf10fe0e5a4665a549824bc3cc3867799c02",
+            "SongName": "Virtual Friends",
+            "SongSubName": "",
+            "SongAuthorName": "DROELOE",
+            "LevelAuthorName": "Skyler & LittleAsi",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_bac5b66fb1a8a6ed3046562fada1eba598002ea9",
+            "SongName": "Like It's Over",
+            "SongSubName": "ft. MNDR",
+            "SongAuthorName": "Jai Wolf",
+            "LevelAuthorName": "Skyler Wallace",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_679cfb3cda10244975954daaf8009a27e0d3100c",
+            "SongName": "The World Is Ours",
+            "SongSubName": "",
+            "SongAuthorName": "Jai Wolf",
+            "LevelAuthorName": "Skyler & Trolav",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_25c25db99bb4a9ae802c29702eb0f219b6fa4079",
+            "SongName": "Lose My Mind",
+            "SongSubName": "ft. Mr. Gabriel",
+            "SongAuthorName": "Jai Wolf",
+            "LevelAuthorName": "Skyler & baxter395",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_45febfc9c4798f9b0bcfbefe8c9dbb1257d3c6d2",
+            "SongName": "Sunburn",
+            "SongSubName": "",
+            "SongAuthorName": "DROELOE",
+            "LevelAuthorName": "Checkthepan & Skyler",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ef6319ccbf5af179c1360be191e57c588e38016c",
+            "SongName": "Push Through",
+            "SongSubName": "",
+            "SongAuthorName": "DROELOE",
+            "LevelAuthorName": "Skyler Wallace",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "SyncService_BeatSaverHOT",
+        "PlaylistName": "Hot",
+        "SongList": [
+          {
+            "SongID": "custom_level_30a4d2abc2b621f14b9d6d0b9ee2d768ca09c416",
+            "SongName": "Donkey Donk",
+            "SongSubName": "(original mix)",
+            "SongAuthorName": "Ryu",
+            "LevelAuthorName": "Tseska",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_18f337e2e7e83179fd2f15f948c6098f8f9eb03e",
+            "SongName": "what she's like",
+            "SongSubName": "",
+            "SongAuthorName": "Tony22",
+            "LevelAuthorName": "MindMonkeys",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_6d909df00077d244916c02415e4873e2146ae6b5",
+            "SongName": "Split",
+            "SongSubName": "Vs. Bob and Bosip",
+            "SongAuthorName": "Vlusky, SplatterDash, Ardolf, DPZ, HJfod, SirHadoken, BoomKitty, & Yoshexists ",
+            "LevelAuthorName": "Ryan123B",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_76a492cada70ef665527f7417769c51cf3581a1b",
+            "SongName": "Promise",
+            "SongSubName": "",
+            "SongAuthorName": "B.U.S.",
+            "LevelAuthorName": "WDG_Plasim",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_abf42bb1e66c5814103b38341ca2910540106af0",
+            "SongName": "Who R U ",
+            "SongSubName": "(prod. Kid Kloud)",
+            "SongAuthorName": "JUFU",
+            "LevelAuthorName": "Faded 99",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_8adaa950dd37e84c75a407e55444ce57c3efcf56",
+            "SongName": "Fresh!",
+            "SongSubName": "",
+            "SongAuthorName": "Schwank",
+            "LevelAuthorName": "Felix",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_76d49e96b596365fce183e2bd87dd17c50ca58a9",
+            "SongName": "Alien Sunrise",
+            "SongSubName": "",
+            "SongAuthorName": "Fairy's Tail",
+            "LevelAuthorName": "The Saxies",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_0782c7f0972c3d4f42ddd252d87968c5449ced40",
+            "SongName": "Weaboo Spookfest",
+            "SongSubName": "",
+            "SongAuthorName": "ReeK",
+            "LevelAuthorName": "Jakeus",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_98a68fc4176e1ab0d00693933d23852ddaf7b8f9",
+            "SongName": "Love Te Wonderland",
+            "SongSubName": "",
+            "SongAuthorName": "Ayana Hira",
+            "LevelAuthorName": "iswimfly",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_5ea92ff1e84bccf5bb8eac2dfef8712836489dea",
+            "SongName": "Last Judgement",
+            "SongSubName": "",
+            "SongAuthorName": "Laur vs Juggernaut",
+            "LevelAuthorName": "muffn & Rogdude",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_683e535cd0f6fe29286891b9a9f0a7537f0d851b",
+            "SongName": "Butterfly(feat.AI Kiritan)",
+            "SongSubName": "(short edition)",
+            "SongAuthorName": "KAELA KIMURA",
+            "LevelAuthorName": "esa_esa",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_efac1947ffde6f46eba05f1e04f9136bd8d5e1a2",
+            "SongName": "Liberation",
+            "SongSubName": "",
+            "SongAuthorName": "DeBisco",
+            "LevelAuthorName": "Felix",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ee8cb5efaeeb2c074d4e762bc5dc6d70647db27f",
+            "SongName": "Ultrasonic Anthem",
+            "SongSubName": "(Kobaryo's FTN-Remix)",
+            "SongAuthorName": "t+pazolite",
+            "LevelAuthorName": "Felix",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_0edbfd466bfbb4799d3d7248c7953620f900a544",
+            "SongName": "Super Nuko Ni Narenkatta",
+            "SongSubName": "",
+            "SongAuthorName": "Mafumafu",
+            "LevelAuthorName": "SmileEaglet",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_7973975ae7e75d0c7261c6f508fc829663ccf347",
+            "SongName": "I Thought The Future Would Be Cooler",
+            "SongSubName": "",
+            "SongAuthorName": "YACHT",
+            "LevelAuthorName": "Universtar",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ba1a354dcb9bf953664134d88993f93b40c498e6",
+            "SongName": "IM JAMES AND IM A HEAD!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+            "SongSubName": "",
+            "SongAuthorName": "James",
+            "LevelAuthorName": "Bigsierzeg",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_38a2ed438cc30d30ecf87768c548659bf4622a72",
+            "SongName": "Dawn",
+            "SongSubName": "",
+            "SongAuthorName": "Sayuri & MY FIRST STORY",
+            "LevelAuthorName": "Nolanimations",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_0330ca64c0200676b334d01e9043997b56f54e74",
+            "SongName": "You",
+            "SongSubName": "",
+            "SongAuthorName": "Imil",
+            "LevelAuthorName": "Emilia",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_32ebb8ea5615d0b0bc29b2dd0aa9aff2f034085b",
+            "SongName": "Last Judgement",
+            "SongSubName": "",
+            "SongAuthorName": "Laur vs juggernaut",
+            "LevelAuthorName": "Salad",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_f560fe8072ad4d7669b86daa457a695ba80dc85a",
+            "SongName": "Irokousui / Color Perfume",
+            "SongSubName": "Horimiya",
+            "SongAuthorName": "YOH KAMIYAMA",
+            "LevelAuthorName": "aN00Bis97",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "SyncService_BeatSaverDOWNLOADS",
+        "PlaylistName": "Top Downloads",
+        "SongList": [
+          {
+            "SongID": "custom_level_4b2da842b687ec4cfbc948c583c21c79d4120de0",
+            "SongName": "Beat it",
+            "SongSubName": "",
+            "SongAuthorName": "Michael Jackson",
+            "LevelAuthorName": "Freeek",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_19f2879d11a91b51a5c090d63471c3e8d9b7aee3",
+            "SongName": "Believer",
+            "SongSubName": "",
+            "SongAuthorName": "Imagine Dragons",
+            "LevelAuthorName": "Rustic",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_8e7e553099436af31564adf1977a5ec42a61cfff",
+            "SongName": "Gangnam Style",
+            "SongSubName": "",
+            "SongAuthorName": "PSY",
+            "LevelAuthorName": "GreatYazer",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_236173d5ba7dc379d480b9cb5fb6b4fa5abe77da",
+            "SongName": "Mr. Blue Sky",
+            "SongSubName": "",
+            "SongAuthorName": "Electric Light Orchestra",
+            "LevelAuthorName": "GreatYazer",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_7c7f38d467bb43fe11a142581e63e324622ecc71",
+            "SongName": "Harder Better Faster Stronger",
+            "SongSubName": "",
+            "SongAuthorName": "Daft Punk",
+            "LevelAuthorName": "RunRockGame",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_0b0ad0f34b2d0687a9794bcf5019100fda06971e",
+            "SongName": "Seven Nation Army",
+            "SongSubName": "",
+            "SongAuthorName": "The White Stripes",
+            "LevelAuthorName": "BlueASIS",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_9a1d001995cc0a2014352aa7148cbcbf2e489d89",
+            "SongName": "Rasputin (Funk Overload)",
+            "SongSubName": "",
+            "SongAuthorName": "",
+            "LevelAuthorName": "Jobas",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_2aa1f5192828e075c30dd015b1e132bba912eb86",
+            "SongName": "Take On Me",
+            "SongSubName": "",
+            "SongAuthorName": "",
+            "LevelAuthorName": "a-ha",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_906160fd1f808e2f34f33c2ca5920118855c065d",
+            "SongName": "Lone Digger",
+            "SongSubName": "",
+            "SongAuthorName": "",
+            "LevelAuthorName": "Caravan Palace",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_834bb9533ea0ba5dec806461230e103b85e1a5e3",
+            "SongName": "Feel Good Inc.",
+            "SongSubName": "",
+            "SongAuthorName": "",
+            "LevelAuthorName": "Gorillaz",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_bc6c7ef1385db4c11c59736d2b32eacf48c95bd9",
+            "SongName": "Every Time We Touch",
+            "SongSubName": "",
+            "SongAuthorName": "",
+            "LevelAuthorName": "Cascada",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_12fee98db7d2080724435d0a1442545f21a9134d",
+            "SongName": "Africa",
+            "SongSubName": "",
+            "SongAuthorName": "",
+            "LevelAuthorName": "Toto",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_9a8b9b0ecc22de615cd99454579b6aac685f4b1c",
+            "SongName": "Bohemian Rhapsody",
+            "SongSubName": "",
+            "SongAuthorName": "Queen",
+            "LevelAuthorName": "KingPeuche YouTube",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_c1c8e2b9394050afad435608137941da0b64b8f3",
+            "SongName": "Super Mario Bros. Theme (Overworld Theme)",
+            "SongSubName": "",
+            "SongAuthorName": "Nintendo",
+            "LevelAuthorName": "red knight",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_aa2f7bf0df25cd57dddac159fa7c159f732e0553",
+            "SongName": "September",
+            "SongSubName": "",
+            "SongAuthorName": "",
+            "LevelAuthorName": "Earth, Wind & Fire",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_89cf8bb07afb3c59ae7b5ac00337d62261c36fb4",
+            "SongName": "Shut Up and Dance",
+            "SongSubName": "",
+            "SongAuthorName": "WALK THE MOON",
+            "LevelAuthorName": "BennyDaBeast",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_dc5b8a8f9178f2978521a942a7caf391712c63f9",
+            "SongName": "Megalovania",
+            "SongSubName": "",
+            "SongAuthorName": "Toby Fox",
+            "LevelAuthorName": "Sinlord",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_00e5671e594a6fe621c3605fcc5a0e4466ba6478",
+            "SongName": "Uprising",
+            "SongSubName": "",
+            "SongAuthorName": "Muse",
+            "LevelAuthorName": "Rustic",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      },
+      {
+        "PlaylistID": "SyncService_BeastSaberCURATOR_RECOMMENDED",
+        "PlaylistName": "Curator Recommended",
+        "SongList": [
+          {
+            "SongID": "custom_level_b2a57bbcad513ac4f61392ffed4c3b2876f5d178",
+            "SongName": "We Did It!!!",
+            "SongSubName": "",
+            "SongAuthorName": "grandson",
+            "LevelAuthorName": "TranquillizeMe & CyanSnow",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_776e0fde08d309b14cab3dd6b0fd74dd1b448811",
+            "SongName": "Was It You",
+            "SongSubName": "(Mazare Remix)",
+            "SongAuthorName": "Au5, HALIENE, Mazare",
+            "LevelAuthorName": "Swifter1243",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_61669136d49887b824ee6d8e89707bb957b8f806",
+            "SongName": "Sleepless",
+            "SongSubName": "",
+            "SongAuthorName": "Pixel Terror, Chime, Teminite",
+            "LevelAuthorName": "Dirty Alex",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_1db37e58609ad297650581c7d8b456fcf82da119",
+            "SongName": "All We Got",
+            "SongSubName": "feat. KIDDO",
+            "SongAuthorName": "Robin Schulz",
+            "LevelAuthorName": "Artjoms & Fatalution",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_d93d094ae17f25dedaee7796f7ca9fc078dc5060",
+            "SongName": "Hades - The Unseen Ones",
+            "SongSubName": "Game OST",
+            "SongAuthorName": "Darren Korb",
+            "LevelAuthorName": "Sp234",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_744db3911b2e35f4e25f4fb84e2bd1c945834d50",
+            "SongName": "Hitech Pistol",
+            "SongSubName": "",
+            "SongAuthorName": "Camellia",
+            "LevelAuthorName": "ThyYeet",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ec7b34fc1373e09dd40ae33d49ea727fad936454",
+            "SongName": "Error Code",
+            "SongSubName": "",
+            "SongAuthorName": "Case & Point",
+            "LevelAuthorName": "Ramen Noodle",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_041d90debac376f81a12506f1814abeac6d1ffe7",
+            "SongName": "I'm Here (Guy Arthur Remix)",
+            "SongSubName": "",
+            "SongAuthorName": "Aiobahn",
+            "LevelAuthorName": "Remie",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_d2f5ec696f6f893177f30e2eab310931e5b14f1d",
+            "SongName": "SUN GOES DOWN",
+            "SongSubName": "",
+            "SongAuthorName": "Lil Nas X",
+            "LevelAuthorName": "Shappy",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_a6dc15b1025ed11512f2e0e9d160ce08750036da",
+            "SongName": "Life",
+            "SongSubName": "",
+            "SongAuthorName": "Tobu",
+            "LevelAuthorName": "SuperSmay",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_3a0af63c667f02cbf927de6f440eca6c1af13457",
+            "SongName": "Believe In You",
+            "SongSubName": "(Re:Zero ED4)",
+            "SongAuthorName": "nonoc",
+            "LevelAuthorName": "Bytrius",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_ce80ac1d50aabdaa267982e7cb2e2014c964c8d8",
+            "SongName": "Bones",
+            "SongSubName": "",
+            "SongAuthorName": "Clarx",
+            "LevelAuthorName": "ItsVasili",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_85fcae3d4cfd8f65d145c6b218873eb71c8ae5f8",
+            "SongName": "Plastic Promises",
+            "SongSubName": "",
+            "SongAuthorName": "Set It Off",
+            "LevelAuthorName": "CoolingCloset",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_5ddaf3976d3f53abe71853c986862b08605c4d67",
+            "SongName": "Powerful",
+            "SongSubName": "",
+            "SongAuthorName": "Icecore & Kou!",
+            "LevelAuthorName": "cerret",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_6934884f6f7fd2be1620a579b7893605737e1ccd",
+            "SongName": "Absolutely (Story Of A Girl)",
+            "SongSubName": "",
+            "SongAuthorName": "Nine Days",
+            "LevelAuthorName": "Remie",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_25fe339505cf979d0b462ea764391edf30a2f67b",
+            "SongName": "Matasaburo",
+            "SongSubName": "",
+            "SongAuthorName": "Yorushika",
+            "LevelAuthorName": "Emir",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_a16b8a66edbe7ca1f6ef8204ba935404153191c3",
+            "SongName": "Opa",
+            "SongSubName": "",
+            "SongAuthorName": "MORGENSHTERN",
+            "LevelAuthorName": "Fatalution",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_e651bcbefc443fece19cb6c8bfad1f9771685045",
+            "SongName": "levitating",
+            "SongSubName": "",
+            "SongAuthorName": "dua lipa Featuring DaBaby",
+            "LevelAuthorName": "[xavier]",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_3eb4fa71bc2e525e124b5459db45adaaa42f7275",
+            "SongName": "Calling",
+            "SongSubName": "ft. Hatsune Miku",
+            "SongAuthorName": "Mary",
+            "LevelAuthorName": "AaltopahWi",
+            "CustomSongPath": null
+          },
+          {
+            "SongID": "custom_level_6513310215effa948ae54f00cadb8a43b9d83c1a",
+            "SongName": "Delay Order",
+            "SongSubName": "Version 3",
+            "SongAuthorName": "Nhato",
+            "LevelAuthorName": "AaltopahWi",
+            "CustomSongPath": null
+          }
+        ],
+        "CoverImageBytes": null,
+        "IsCoverLoaded": false
+      }
+    ],
+    "Mods": [
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "CustomTypes",
+        "Name": "Custom Types",
+        "CoverImageFilename": null,
+        "Author": "Sc2ad",
+        "Porter": null,
+        "Version": "0.4.4",
+        "version": "0.4.4",
+        "links": {},
+        "description": ["Core mod required for other mods to function!"],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "CustomTypes",
+        "name": "Custom Types",
+        "coverImageFilename": null,
+        "porter": null,
+        "author": "Sc2ad",
+        "category": "Gameplay",
+        "InfoUrl": null,
+        "Description": "Core mod required for other mods to function!",
+        "Category": "Gameplay",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "Codegen",
+        "Name": "Codegen",
+        "CoverImageFilename": null,
+        "Author": "Sc2ad",
+        "Porter": null,
+        "Version": "0.6.2",
+        "version": "0.6.2",
+        "links": {},
+        "description": [
+          "A core library used by almost every mod. DO NOT ATTEMPT TO UNINSTALL IT!"
+        ],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "Codegen",
+        "name": "Codegen",
+        "coverImageFilename": null,
+        "porter": null,
+        "author": "Sc2ad",
+        "category": "Other",
+        "InfoUrl": null,
+        "Description": "A core library used by almost every mod. DO NOT ATTEMPT TO UNINSTALL IT!",
+        "Category": "Other",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "PinkCore",
+        "Name": "PinkCore",
+        "CoverImageFilename": "cover.jpg",
+        "Author": "Pink, StackDoubleFlow, Lillie, RedBrumbler",
+        "Porter": null,
+        "Version": "1.4.1",
+        "version": "1.4.1",
+        "links": {
+          "project-home": "https://www.questmodding.com/"
+        },
+        "description": [
+          "PinkCore is a core mod that ports over many required features which ensure a smooth PC-Like experience. This includes adding information to your game such as Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, Chromalite, and more! Please visit our website https://www.questmodding.com for details on what this mod does and why you have this mod. If you require assistance, please head to our discord located in the website."
+        ],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "PinkCore",
+        "name": "PinkCore",
+        "coverImageFilename": "cover.jpg",
+        "porter": null,
+        "author": "Pink, StackDoubleFlow, Lillie, RedBrumbler",
+        "category": "Gameplay",
+        "InfoUrl": "https://www.questmodding.com/",
+        "Description": "PinkCore is a core mod that ports over many required features which ensure a smooth PC-Like experience. This includes adding information to your game such as Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, Chromalite, and more! Please visit our website https://www.questmodding.com for details on what this mod does and why you have this mod. If you require assistance, please head to our discord located in the website.",
+        "Category": "Gameplay",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "goodbyebug",
+        "Name": "GoodbyeBug",
+        "CoverImageFilename": null,
+        "Author": "Rugtveit",
+        "Porter": null,
+        "Version": "0.1.4",
+        "version": "0.1.4",
+        "links": {},
+        "description": [
+          "Fixes playlist scrolling in the wrong direction",
+          "when you got more than 8 playlists"
+        ],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "goodbyebug",
+        "name": "GoodbyeBug",
+        "coverImageFilename": null,
+        "porter": null,
+        "author": "Rugtveit",
+        "category": "Gameplay",
+        "InfoUrl": null,
+        "Description": "Fixes playlist scrolling in the wrong direction\nwhen you got more than 8 playlists",
+        "Category": "Gameplay",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "questui",
+        "Name": "QuestUI",
+        "CoverImageFilename": null,
+        "Author": "darknight1050",
+        "Porter": null,
+        "Version": "0.4.4",
+        "version": "0.4.4",
+        "links": {},
+        "description": ["A library used to add Mod Settings and other UI."],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "questui",
+        "name": "QuestUI",
+        "coverImageFilename": null,
+        "porter": null,
+        "author": "darknight1050",
+        "category": "Other",
+        "InfoUrl": null,
+        "Description": "A library used to add Mod Settings and other UI.",
+        "Category": "Other",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "AddedModifiers",
+        "Name": "Added Modifiers",
+        "CoverImageFilename": null,
+        "Author": "Inferno._.",
+        "Porter": null,
+        "Version": "1.0.11",
+        "version": "1.0.11",
+        "links": {},
+        "description": ["Implements two previously unused modifers"],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "AddedModifiers",
+        "name": "Added Modifiers",
+        "coverImageFilename": null,
+        "porter": null,
+        "author": "Inferno._.",
+        "category": "Gameplay",
+        "InfoUrl": null,
+        "Description": "Implements two previously unused modifers",
+        "Category": "Gameplay",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "auto-debris",
+        "Name": "AutoDebris",
+        "CoverImageFilename": "cover.jpg",
+        "Author": "Lauriethefish#6700",
+        "Porter": null,
+        "Version": "0.1.4",
+        "version": "0.1.4",
+        "links": {},
+        "description": [
+          "Automatically enables or disables debris based on your NPS or playlist"
+        ],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "auto-debris",
+        "name": "AutoDebris",
+        "coverImageFilename": "cover.jpg",
+        "porter": null,
+        "author": "Lauriethefish#6700",
+        "category": "Gameplay",
+        "InfoUrl": null,
+        "Description": "Automatically enables or disables debris based on your NPS or playlist",
+        "Category": "Gameplay",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "clockmod",
+        "Name": "Clock Mod",
+        "CoverImageFilename": "Cover.png",
+        "Author": "BoopetyDoopety, EnderdracheLP",
+        "Porter": null,
+        "Version": "1.3.1",
+        "version": "1.3.1",
+        "links": {},
+        "description": ["Displays the time in game."],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "clockmod",
+        "name": "Clock Mod",
+        "coverImageFilename": "Cover.png",
+        "porter": null,
+        "author": "BoopetyDoopety, EnderdracheLP",
+        "category": "Other",
+        "InfoUrl": null,
+        "Description": "Displays the time in game.",
+        "Category": "Other",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "IntroSkip",
+        "Name": "Intro Skip",
+        "CoverImageFilename": null,
+        "Author": "Henwill8",
+        "Porter": null,
+        "Version": "0.2.0",
+        "version": "0.2.0",
+        "links": {},
+        "description": [],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "IntroSkip",
+        "name": "Intro Skip",
+        "coverImageFilename": null,
+        "porter": null,
+        "author": "Henwill8",
+        "category": "Gameplay",
+        "InfoUrl": null,
+        "Description": null,
+        "Category": "Gameplay",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "mod-list",
+        "Name": "ModList",
+        "CoverImageFilename": "cover.jpg",
+        "Author": "Lauriethefish#6700",
+        "Porter": null,
+        "Version": "0.1.1",
+        "version": "0.1.1",
+        "links": {},
+        "description": [
+          "Allows you to easily see which mods are loaded by going to the mod settings menu."
+        ],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "mod-list",
+        "name": "ModList",
+        "coverImageFilename": "cover.jpg",
+        "porter": null,
+        "author": "Lauriethefish#6700",
+        "category": "Gameplay",
+        "InfoUrl": null,
+        "Description": "Allows you to easily see which mods are loaded by going to the mod settings menu.",
+        "Category": "Gameplay",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "PracticePlus",
+        "Name": "PracticePlus",
+        "CoverImageFilename": null,
+        "Author": "Mott's Applesauce",
+        "Porter": null,
+        "Version": "0.4.0",
+        "version": "0.4.0",
+        "links": {},
+        "description": [
+          "Updated version of the PracticePlus mod originally created by L_ : https://github.com/L025/PracticePlus",
+          "This mod allows you to set the NJS and note offset for a song in practice mode, and lets you play the song anywhere from 25%-300% speed"
+        ],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "PracticePlus",
+        "name": "PracticePlus",
+        "coverImageFilename": null,
+        "porter": null,
+        "author": "Mott's Applesauce",
+        "category": "Gameplay",
+        "InfoUrl": null,
+        "Description": "Updated version of the PracticePlus mod originally created by L_ : https://github.com/L025/PracticePlus\nThis mod allows you to set the NJS and note offset for a song in practice mode, and lets you play the song anywhere from 25%-300% speed",
+        "Category": "Gameplay",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "qounters-minus",
+        "Name": "Qounters-",
+        "CoverImageFilename": "cover.png",
+        "Author": "danrouse#0214",
+        "Porter": null,
+        "Version": "1.0.1",
+        "version": "1.0.1",
+        "links": {},
+        "description": [
+          "Store brand version of Counters+ for the Quest version of Beat Saber. Adds a variety of configurable Qounters to display statistics in-game."
+        ],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "qounters-minus",
+        "name": "Qounters-",
+        "coverImageFilename": "cover.png",
+        "porter": null,
+        "author": "danrouse#0214",
+        "category": "Gameplay",
+        "InfoUrl": null,
+        "Description": "Store brand version of Counters+ for the Quest version of Beat Saber. Adds a variety of configurable Qounters to display statistics in-game.",
+        "Category": "Gameplay",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "Redbar",
+        "Name": "Redbar",
+        "CoverImageFilename": null,
+        "Author": "ComputerElite",
+        "Porter": null,
+        "Version": "1.3.1",
+        "version": "1.3.1",
+        "links": {},
+        "description": [
+          "Changes the Color of the energy bar according to your Health. Originally made by Miniwa"
+        ],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "Redbar",
+        "name": "Redbar",
+        "coverImageFilename": null,
+        "porter": null,
+        "author": "ComputerElite",
+        "category": "Gameplay",
+        "InfoUrl": null,
+        "Description": "Changes the Color of the energy bar according to your Health. Originally made by Miniwa",
+        "Category": "Gameplay",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "slicevisualizer",
+        "Name": "Slice Visualizer",
+        "CoverImageFilename": null,
+        "Author": "Henwill8",
+        "Porter": null,
+        "Version": "0.1.0",
+        "version": "0.1.0",
+        "links": {},
+        "description": [],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "slicevisualizer",
+        "name": "Slice Visualizer",
+        "coverImageFilename": null,
+        "porter": null,
+        "author": "Henwill8",
+        "category": "Gameplay",
+        "InfoUrl": null,
+        "Description": null,
+        "Category": "Gameplay",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "SongDifficultyChart",
+        "Name": "Song Difficulty Chart",
+        "CoverImageFilename": null,
+        "Author": "Henwill8",
+        "Porter": null,
+        "Version": "0.1.0",
+        "version": "0.1.0",
+        "links": {},
+        "description": [],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "SongDifficultyChart",
+        "name": "Song Difficulty Chart",
+        "coverImageFilename": null,
+        "porter": null,
+        "author": "Henwill8",
+        "category": "Gameplay",
+        "InfoUrl": null,
+        "Description": null,
+        "Category": "Gameplay",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "TrickSaber",
+        "Name": "Trick Saber",
+        "CoverImageFilename": null,
+        "Author": "zoller27osu, Fernthedev",
+        "Porter": null,
+        "Version": "0.3.1",
+        "version": "0.3.1",
+        "links": {},
+        "description": [
+          "A port of the PC original mod by Toni Macaroni.",
+          "See https://tonimacaroni.github.io/TrickSaber-Docs/Configuration for config explanations."
+        ],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "TrickSaber",
+        "name": "Trick Saber",
+        "coverImageFilename": null,
+        "porter": null,
+        "author": "zoller27osu, Fernthedev",
+        "category": "Gameplay",
+        "InfoUrl": null,
+        "Description": "A port of the PC original mod by Toni Macaroni.\nSee https://tonimacaroni.github.io/TrickSaber-Docs/Configuration for config explanations.",
+        "Category": "Gameplay",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "Tweakaroo",
+        "Name": "Tweakaroo",
+        "CoverImageFilename": null,
+        "Author": "MillzyG#3664",
+        "Porter": null,
+        "Version": "1.0.0",
+        "version": "1.0.0",
+        "links": {},
+        "description": [
+          "A Mod that adds some tweaks to \"Optimize\" experience"
+        ],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "Tweakaroo",
+        "name": "Tweakaroo",
+        "coverImageFilename": null,
+        "porter": null,
+        "author": "MillzyG#3664",
+        "category": "Gameplay",
+        "InfoUrl": null,
+        "Description": "A Mod that adds some tweaks to \"Optimize\" experience",
+        "Category": "Gameplay",
+        "TargetBeatSaberVersion": "1.13.2"
+      },
+      {
+        "Uninstallable": true,
+        "Status": "Installed",
+        "Platform": "Quest",
+        "ID": "MappingExtensions",
+        "Name": "Mapping Extensions",
+        "CoverImageFilename": null,
+        "Author": "StackDoubleFlow",
+        "Porter": null,
+        "Version": "0.19.1",
+        "version": "0.19.1",
+        "links": {
+          "project-home": "https://github.com/StackDoubleFlow/QuestMods"
+        },
+        "description": [
+          "An update of the port of the PC original mod by Kyle 1413. Previously maintained by zoller27osu",
+          "This adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player."
+        ],
+        "gameVersion": "1.13.2",
+        "platform": "Quest",
+        "id": "MappingExtensions",
+        "name": "Mapping Extensions",
+        "coverImageFilename": null,
+        "porter": null,
+        "author": "StackDoubleFlow",
+        "category": "Other",
+        "InfoUrl": "https://github.com/StackDoubleFlow/QuestMods",
+        "Description": "An update of the port of the PC original mod by Kyle 1413. Previously maintained by zoller27osu\nThis adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player.",
+        "Category": "Other",
+        "TargetBeatSaberVersion": "1.13.2"
+      }
+    ],
+    "Saber": null,
+    "LeftColor": null,
+    "RightColor": null,
+    "TextChanges": []
+  },
+  "SyncConfig": {
+    "BeastSaberUsername": "xyz",
+    "CheckExistingSongsUpdated": false,
+    "FeedReaders": [
+      {
+        "PlaylistID": "SyncService_ScoreSaberTRENDING",
+        "DisplayName": "Trending",
+        "FeedId": "TRENDING",
+        "FeedType": 0,
+        "ID": "28832eb3-950d-4fd4-99f9-e11b821f889f",
+        "MaxSongs": 30,
+        "LastSyncAttempt": null,
+        "LastSyncSuccess": null,
+        "IsEnabled": false
+      },
+      {
+        "PlaylistID": "SyncService_ScoreSaberLATEST_RANKED",
+        "DisplayName": "Latest Ranked",
+        "FeedId": "LATEST_RANKED",
+        "FeedType": 1,
+        "ID": "ca0708e9-edd6-4c7b-85fa-b442eb2bf94f",
+        "MaxSongs": 30,
+        "LastSyncAttempt": null,
+        "LastSyncSuccess": null,
+        "IsEnabled": false
+      },
+      {
+        "PlaylistID": "SyncService_ScoreSaberTOP_PLAYED",
+        "DisplayName": "Top Played",
+        "FeedId": "TOP_PLAYED",
+        "FeedType": 2,
+        "ID": "e78b8faf-6e50-4518-bbaa-15929d710f01",
+        "MaxSongs": 30,
+        "LastSyncAttempt": null,
+        "LastSyncSuccess": null,
+        "IsEnabled": false
+      },
+      {
+        "PlaylistID": "SyncService_ScoreSaberTOP_RANKED",
+        "DisplayName": "Top Ranked",
+        "FeedId": "TOP_RANKED",
+        "FeedType": 3,
+        "ID": "1fb00d62-d7e6-41cb-805f-5613b1c8969a",
+        "MaxSongs": 30,
+        "LastSyncAttempt": null,
+        "LastSyncSuccess": null,
+        "IsEnabled": false
+      },
+      {
+        "FeedType": 0,
+        "Authors": [],
+        "PlaylistID": "SyncService_BeatSaverAUTHOR",
+        "DisplayName": "By Authors",
+        "FeedId": "AUTHOR",
+        "ID": "295443e8-04a5-4a29-9467-00f14477760e",
+        "MaxSongs": 30,
+        "LastSyncAttempt": null,
+        "LastSyncSuccess": null,
+        "IsEnabled": false
+      },
+      {
+        "FeedType": 3,
+        "Authors": [],
+        "PlaylistID": "SyncService_BeatSaverTOP_PLAYED",
+        "DisplayName": "Top Played",
+        "FeedId": "TOP_PLAYED",
+        "ID": "b994ef7c-2abd-4859-a219-cabed3fe1e42",
+        "MaxSongs": 30,
+        "LastSyncAttempt": null,
+        "LastSyncSuccess": null,
+        "IsEnabled": false
+      },
+      {
+        "PlaylistID": "SyncService_BeastSaberBOOKMARKS",
+        "DisplayName": "Bookmarks",
+        "FeedId": "BOOKMARKS",
+        "FeedType": 1,
+        "ID": "bc37dff3-0c3b-463e-8603-4b95bc333dd9",
+        "MaxSongs": 200,
+        "LastSyncAttempt": "2021-06-27T20:37:16.536875+02:00",
+        "LastSyncSuccess": "2021-06-27T20:37:19.737766+02:00",
+        "IsEnabled": true
+      },
+      {
+        "FeedType": 4,
+        "Authors": [],
+        "PlaylistID": "SyncService_BeatSaverDOWNLOADS",
+        "DisplayName": "Top Downloads",
+        "FeedId": "DOWNLOADS",
+        "ID": "217bc198-3726-45f8-8f7e-f05e026280a6",
+        "MaxSongs": 20,
+        "LastSyncAttempt": "2021-06-27T20:37:16.538299+02:00",
+        "LastSyncSuccess": "2021-06-27T20:37:17.035606+02:00",
+        "IsEnabled": true
+      },
+      {
+        "FeedType": 2,
+        "Authors": [],
+        "PlaylistID": "SyncService_BeatSaverHOT",
+        "DisplayName": "Hot",
+        "FeedId": "HOT",
+        "ID": "0ec3495e-24d6-4204-883c-4241d1d71bf8",
+        "MaxSongs": 20,
+        "LastSyncAttempt": "2021-06-27T20:37:16.53452+02:00",
+        "LastSyncSuccess": "2021-06-27T20:37:17.040203+02:00",
+        "IsEnabled": true
+      },
+      {
+        "PlaylistID": "SyncService_BeastSaberCURATOR_RECOMMENDED",
+        "DisplayName": "Curator Recommended",
+        "FeedId": "CURATOR_RECOMMENDED",
+        "FeedType": 2,
+        "ID": "a6a9a835-1a61-4524-8af3-105e6a6444c0",
+        "MaxSongs": 20,
+        "LastSyncAttempt": "2021-06-27T20:37:16.538312+02:00",
+        "LastSyncSuccess": "2021-06-27T20:37:18.007498+02:00",
+        "IsEnabled": true
+      },
+      {
+        "PlaylistID": "SyncService_BeastSaberFOLLOWING",
+        "DisplayName": "Following",
+        "FeedId": "FOLLOWING",
+        "FeedType": 0,
+        "ID": "3db72234-722c-42ca-9325-3f72b41eeabb",
+        "MaxSongs": 30,
+        "LastSyncAttempt": null,
+        "LastSyncSuccess": null,
+        "IsEnabled": false
+      },
+      {
+        "FeedType": 1,
+        "Authors": [],
+        "PlaylistID": "SyncService_BeatSaverLATEST",
+        "DisplayName": "Latest",
+        "FeedId": "LATEST",
+        "ID": "0e2eb29f-81f1-4d20-ba16-9033ad52c8e9",
+        "MaxSongs": 20,
+        "LastSyncAttempt": null,
+        "LastSyncSuccess": null,
+        "IsEnabled": false
+      }
+    ]
+  },
+  "BeatSaberVersion": "1.13.2"
+}
